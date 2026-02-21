@@ -300,9 +300,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/21. นครราชสีมา เขต 13.json",
   "_validation": {
-    "vote_sum": 69224,
+    "vote_sum": 68960,
     "good_votes": 69798,
-    "sum_diff_pct": 0.82
+    "sum_diff_pct": 1.2
   },
   "province_code": "30",
   "province_name_normalized": "นครราชสีมา",
@@ -311,7 +311,7 @@
     "voters_came": 78490,
     "ballots_received": 135116,
     "ballots_used": 78490,
-    "good_votes": 69224,
+    "good_votes": 69798,
     "invalid_votes": 5171,
     "no_votes": 3521
   },
@@ -338,18 +338,18 @@
       "party_code": "2"
     },
     {
-      "number": 8,
-      "party": "ประชาธิปไตยใหม่",
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
       "votes": 2241,
-      "party_uuid": "d1964fe3-2dd0-43d5-a190-77fbfaf586b2",
-      "party_code": "8"
+      "party_uuid": "115da917-bf32-4e96-a2ae-b7818d0909ee",
+      "party_code": "6"
     },
     {
-      "number": 9,
-      "party": "เพื่อไทย",
+      "number": 7,
+      "party": "พลวัต",
       "votes": 341,
-      "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
-      "party_code": "9"
+      "party_uuid": "bd8d9f14-f757-41fb-8f37-d6128d9d012d",
+      "party_code": "7"
     },
     {
       "number": 10,
@@ -702,13 +702,5 @@
       "party_code": "42"
     }
   ],
-  "unmatched_parties": [
-    {
-      "number": 36,
-      "party": "พลังธรรมใหม่",
-      "votes": 264,
-      "party_uuid": null,
-      "party_code": null
-    }
-  ]
+  "unmatched_parties": []
 }

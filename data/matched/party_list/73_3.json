@@ -307,7 +307,7 @@
   "_validation": {
     "vote_sum": 82640,
     "good_votes": 82640,
-    "sum_diff_pct": 5.53
+    "sum_diff_pct": 0.53
   },
   "province_code": "73",
   "province_name_normalized": "นครปฐม",
@@ -716,7 +716,7 @@
     {
       "number": 57,
       "party": "พลังไทยรักชาติ",
-      "votes": 35,
+      "votes": 131,
       "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
       "party_code": "57"
     }

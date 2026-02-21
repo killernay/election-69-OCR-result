@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/11. ชัยภูมิ เขต 1.json",
   "_validation": {
-    "vote_sum": 81275,
+    "vote_sum": 81255,
     "good_votes": 81337,
-    "sum_diff_pct": 0.08
+    "sum_diff_pct": 0.1
   },
   "province_code": "36",
   "province_name_normalized": "ชัยภูมิ",
@@ -707,20 +707,5 @@
       "party_code": "16"
     }
   ],
-  "unmatched_parties": [
-    {
-      "number": 18,
-      "party": "ไทยชนะ",
-      "votes": 20,
-      "party_uuid": null,
-      "party_code": null
-    },
-    {
-      "number": 36,
-      "party": "",
-      "votes": 0,
-      "party_uuid": null,
-      "party_code": null
-    }
-  ]
+  "unmatched_parties": []
 }
