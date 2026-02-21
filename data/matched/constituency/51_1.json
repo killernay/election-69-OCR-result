@@ -24,7 +24,7 @@
       "votes": 66093
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายชัยณรงค์ ภู่พิสิฐ",
       "party": "เพื่อไทย",
       "votes": 29768
@@ -42,19 +42,19 @@
       "votes": 7369
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "นายประกอบ ยอดยา",
       "party": "กล้าธรรม",
       "votes": 4395
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นายสุริยา บุญนาคค้า",
       "party": "เสรีรวมไทย",
       "votes": 3352
     },
     {
-      "number": 7,
+      "number": 5,
       "name": "นายสุวสันต์ จันทร์ตาธรรม",
       "party": "เศรษฐกิจ",
       "votes": 2666
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายชัยณรงค์ ภู่พิสิฐ",
       "party": "เพื่อไทย",
       "votes": 29768,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "นายประกอบ ยอดยา",
       "party": "กล้าธรรม",
       "votes": 4395,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นายสุริยา บุญนาคค้า",
       "party": "เสรีรวมไทย",
       "votes": 3352,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 5,
       "name": "นายสุวสันต์ จันทร์ตาธรรม",
       "party": "เศรษฐกิจ",
       "votes": 2666,

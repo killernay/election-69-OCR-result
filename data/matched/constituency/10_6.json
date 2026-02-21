@@ -30,67 +30,67 @@
       "votes": 12848
     },
     {
-      "number": 11,
+      "number": 13,
       "name": "นายนรเสฏฐ์ เธียรประสิทธิ์",
       "party": "ภูมิใจไทย",
       "votes": 12088
     },
     {
-      "number": 4,
+      "number": 11,
       "name": "นางสาวอรพินทร์ เพชรทัต",
       "party": "โอกาสใหม่",
       "votes": 10856
     },
     {
-      "number": 14,
+      "number": 4,
       "name": "นายสหัสวรรษ วีระมงคลกุล",
       "party": "เพื่อไทย",
       "votes": 6380
     },
     {
-      "number": 6,
+      "number": 3,
       "name": "นายชณทัต ปัทะมะภูวดล",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2468
     },
     {
-      "number": 9,
+      "number": 14,
       "name": "นายอัศวิน อัศวินวิจตร",
       "party": "เศรษฐกิจ",
       "votes": 1679
     },
     {
-      "number": 10,
+      "number": 6,
       "name": "นายอิง อิงคตานุวัฒน์",
       "party": "ไทยภักดี",
       "votes": 1388
     },
     {
-      "number": 12,
+      "number": 9,
       "name": "พลตรีดนัย ดิษาภิรมย์",
       "party": "ไทยสร้างไทย",
       "votes": 1306
     },
     {
-      "number": 13,
+      "number": 1,
       "name": "นายโชติพงศ์ สรรเสริญ",
       "party": "ไทยก้าวใหม่",
       "votes": 764
     },
     {
-      "number": 1,
+      "number": 10,
       "name": "นายกชพล จิตต์มั่นการ",
       "party": "พลวัต",
       "votes": 317
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายวรวิช กมลโชติรส",
       "party": "รักชาติ",
       "votes": 300
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายณรงค์ชัย เมืองครอง",
       "party": "กล้าธรรม",
       "votes": 247
@@ -149,7 +149,7 @@
       "is_active": true
     },
     {
-      "number": 11,
+      "number": 13,
       "name": "นายนรเสฏฐ์ เธียรประสิทธิ์",
       "party": "ภูมิใจไทย",
       "votes": 12088,
@@ -157,7 +157,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 11,
       "name": "นางสาวอรพินทร์ เพชรทัต",
       "party": "โอกาสใหม่",
       "votes": 10856,
@@ -165,7 +165,7 @@
       "is_active": true
     },
     {
-      "number": 14,
+      "number": 4,
       "name": "นายสหัสวรรษ วีระมงคลกุล",
       "party": "เพื่อไทย",
       "votes": 6380,
@@ -173,7 +173,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 3,
       "name": "นายชณทัต ปัทะมะภูวดล",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2468,
@@ -181,7 +181,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 14,
       "name": "นายอัศวิน อัศวินวิจตร",
       "party": "เศรษฐกิจ",
       "votes": 1679,
@@ -189,7 +189,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 6,
       "name": "นายอิง อิงคตานุวัฒน์",
       "party": "ไทยภักดี",
       "votes": 1388,
@@ -197,7 +197,7 @@
       "is_active": true
     },
     {
-      "number": 12,
+      "number": 9,
       "name": "พลตรีดนัย ดิษาภิรมย์",
       "party": "ไทยสร้างไทย",
       "votes": 1306,
@@ -205,7 +205,7 @@
       "is_active": true
     },
     {
-      "number": 13,
+      "number": 1,
       "name": "นายโชติพงศ์ สรรเสริญ",
       "party": "ไทยก้าวใหม่",
       "votes": 764,
@@ -213,7 +213,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 10,
       "name": "นายกชพล จิตต์มั่นการ",
       "party": "พลวัต",
       "votes": 317,
@@ -221,7 +221,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายวรวิช กมลโชติรส",
       "party": "รักชาติ",
       "votes": 300,
@@ -229,7 +229,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายณรงค์ชัย เมืองครอง",
       "party": "กล้าธรรม",
       "votes": 247,

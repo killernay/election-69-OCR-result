@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": null,
+      "number": 8,
       "name": "นางสาวการณิก จันทดา",
       "party": "ประชาชน",
       "votes": 51532
@@ -30,13 +30,13 @@
       "votes": 26155
     },
     {
-      "number": 2,
+      "number": 6,
       "name": "นายยุทธนา สุวรรณ",
       "party": "ภูมิใจไทย",
       "votes": 7177
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายตะวัน ตุ้มวอน",
       "party": "เศรษฐกิจ",
       "votes": 3812
@@ -72,7 +72,7 @@
       "votes": 862
     },
     {
-      "number": 13,
+      "number": 11,
       "name": "นายภาณุวิชญ์ สายหมอก",
       "party": "ไทยก้าวใหม่",
       "votes": 576
@@ -109,7 +109,7 @@
   },
   "matched_candidates": [
     {
-      "number": null,
+      "number": 8,
       "name": "นางสาวการณิก จันทดา",
       "party": "ประชาชน",
       "votes": 51532,
@@ -125,7 +125,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 6,
       "name": "นายยุทธนา สุวรรณ",
       "party": "ภูมิใจไทย",
       "votes": 7177,
@@ -133,7 +133,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายตะวัน ตุ้มวอน",
       "party": "เศรษฐกิจ",
       "votes": 3812,
@@ -181,7 +181,7 @@
       "is_active": true
     },
     {
-      "number": 13,
+      "number": 11,
       "name": "นายภาณุวิชญ์ สายหมอก",
       "party": "ไทยก้าวใหม่",
       "votes": 576,

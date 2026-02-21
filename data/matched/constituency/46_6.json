@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 4,
+      "number": 3,
       "name": "นายชนะวุธ อุทโท",
       "party": "เพื่อไทย",
       "votes": 59665
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายประเสริฐ บุญเรื่อง",
       "party": "ภูมิใจไทย",
       "votes": 15141
@@ -36,7 +36,7 @@
       "votes": 13120
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายจุฬา ศรีบุตตะ",
       "party": "พลังประชารัฐ",
       "votes": 1269
@@ -48,7 +48,7 @@
       "votes": 787
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายณัฏฐพงศ์ โพธะศรี",
       "party": "เศรษฐกิจ",
       "votes": 452
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 4,
+      "number": 3,
       "name": "นายชนะวุธ อุทโท",
       "party": "เพื่อไทย",
       "votes": 59665,
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายประเสริฐ บุญเรื่อง",
       "party": "ภูมิใจไทย",
       "votes": 15141,
@@ -121,7 +121,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายจุฬา ศรีบุตตะ",
       "party": "พลังประชารัฐ",
       "votes": 1269,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายณัฏฐพงศ์ โพธะศรี",
       "party": "เศรษฐกิจ",
       "votes": 452,

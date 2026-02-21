@@ -36,13 +36,13 @@
       "votes": 12181
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายสาคร ปราบพาล",
       "party": "พลังประชารัฐ",
       "votes": 1594
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายสตราลิน จอมประมาณ",
       "party": "เศรษฐกิจ",
       "votes": 627
@@ -115,7 +115,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายสาคร ปราบพาล",
       "party": "พลังประชารัฐ",
       "votes": 1594,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายสตราลิน จอมประมาณ",
       "party": "เศรษฐกิจ",
       "votes": 627,

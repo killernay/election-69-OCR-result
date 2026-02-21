@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 5,
+      "number": 7,
       "name": "นายณัฏฐพล จรัสรพีพงษ์",
       "party": "ภูมิใจไทย",
       "votes": 53228
     },
     {
-      "number": 1,
+      "number": 5,
       "name": "นายชูชัย มุ่งเจริญพร",
       "party": "เพื่อไทย",
       "votes": 17069
@@ -42,7 +42,7 @@
       "votes": 1114
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายพิเชษฐ์ ภูแก้ว",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1064
@@ -54,19 +54,19 @@
       "votes": 970
     },
     {
-      "number": 7,
+      "number": 1,
       "name": "นายสุมากร แซ่โง้ว",
       "party": "กล้าธรรม",
       "votes": 613
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายวิทยา แก้วเหลี่ยม",
       "party": "ประชาธิปไตยใหม่",
       "votes": 474
     },
     {
-      "number": 8,
+      "number": 4,
       "name": "นายณรงค์ มุตตะโสภา",
       "party": "พลังประชารัฐ",
       "votes": 463
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 5,
+      "number": 7,
       "name": "นายณัฏฐพล จรัสรพีพงษ์",
       "party": "ภูมิใจไทย",
       "votes": 53228,
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 5,
       "name": "นายชูชัย มุ่งเจริญพร",
       "party": "เพื่อไทย",
       "votes": 17069,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายพิเชษฐ์ ภูแก้ว",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1064,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 1,
       "name": "นายสุมากร แซ่โง้ว",
       "party": "กล้าธรรม",
       "votes": 613,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายวิทยา แก้วเหลี่ยม",
       "party": "ประชาธิปไตยใหม่",
       "votes": 474,
@@ -161,7 +161,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 4,
       "name": "นายณรงค์ มุตตะโสภา",
       "party": "พลังประชารัฐ",
       "votes": 463,

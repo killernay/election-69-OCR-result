@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 5,
       "name": "นายรชตะ ด่านกุล",
       "party": "เพื่อไทย",
       "votes": 37242
@@ -30,7 +30,7 @@
       "votes": 26946
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายมารุต ชุ่มขุนทด",
       "party": "กล้าธรรม",
       "votes": 15641
@@ -42,7 +42,7 @@
       "votes": 12635
     },
     {
-      "number": 5,
+      "number": 9,
       "name": "นายชมภู โสมกูล",
       "party": "เศรษฐกิจ",
       "votes": 1283
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": 5,
       "name": "นายรชตะ ด่านกุล",
       "party": "เพื่อไทย",
       "votes": 37242,
@@ -107,7 +107,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายมารุต ชุ่มขุนทด",
       "party": "กล้าธรรม",
       "votes": 15641,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 9,
       "name": "นายชมภู โสมกูล",
       "party": "เศรษฐกิจ",
       "votes": 1283,

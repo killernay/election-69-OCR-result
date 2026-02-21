@@ -30,31 +30,31 @@
       "votes": 26423
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวชนก จันทาทอง",
       "party": "เพื่อไทย",
       "votes": 13883
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นางสาวทศพร จันทร์ศรี",
       "party": "ประชาชน",
       "votes": 9782
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายธงชัย กึ่งมาตย์",
       "party": "ประชาธิปัตย์",
       "votes": 397
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายจักรภัทร สายไธสง",
       "party": "ประชากรไทย",
       "votes": 217
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางราตรี กาลจักร์",
       "party": "ประชาธิปไตยใหม่",
       "votes": 194
@@ -95,7 +95,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวชนก จันทาทอง",
       "party": "เพื่อไทย",
       "votes": 13883,
@@ -103,7 +103,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นางสาวทศพร จันทร์ศรี",
       "party": "ประชาชน",
       "votes": 9782,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายธงชัย กึ่งมาตย์",
       "party": "ประชาธิปัตย์",
       "votes": 397,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายจักรภัทร สายไธสง",
       "party": "ประชากรไทย",
       "votes": 217,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางราตรี กาลจักร์",
       "party": "ประชาธิปไตยใหม่",
       "votes": 194,

@@ -36,43 +36,43 @@
       "votes": 15354
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นางสาวนำโชค งามสง่า",
       "party": "เศรษฐกิจ",
       "votes": 2225
     },
     {
-      "number": 6,
+      "number": 1,
       "name": "พันโทศรีสวัสดิ์ ดวงพรม",
       "party": "กล้าธรรรม",
       "votes": 1598
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางราณี นิวงศ์ษา",
       "party": "ประชาธิปัตย์",
       "votes": 562
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายองอาจ วิเศษ",
       "party": "พลังประชารัฐ",
       "votes": 436
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายหนูพิศ สีดามาตย์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 296
     },
     {
-      "number": 10,
+      "number": 7,
       "name": "นายชนะพล อำนาจเจริญ",
       "party": "ไทยก้าวใหม่",
       "votes": 195
     },
     {
-      "number": 11,
+      "number": 10,
       "name": "นางดารุณี วงศ์คำพระ",
       "party": "เพื่อบ้านเมือง",
       "votes": 161
@@ -121,7 +121,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นางสาวนำโชค งามสง่า",
       "party": "เศรษฐกิจ",
       "votes": 2225,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 1,
       "name": "พันโทศรีสวัสดิ์ ดวงพรม",
       "party": "กล้าธรรรม",
       "votes": 1598,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางราณี นิวงศ์ษา",
       "party": "ประชาธิปัตย์",
       "votes": 562,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายองอาจ วิเศษ",
       "party": "พลังประชารัฐ",
       "votes": 436,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายหนูพิศ สีดามาตย์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 296,
@@ -161,7 +161,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 7,
       "name": "นายชนะพล อำนาจเจริญ",
       "party": "ไทยก้าวใหม่",
       "votes": 195,
@@ -169,7 +169,7 @@
       "is_active": true
     },
     {
-      "number": 11,
+      "number": 10,
       "name": "นางดารุณี วงศ์คำพระ",
       "party": "เพื่อบ้านเมือง",
       "votes": 161,
