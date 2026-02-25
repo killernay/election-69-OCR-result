@@ -19,28 +19,28 @@
   "results": [
     {
       "number": 1,
+      "party": "พรรคที่ 1",
+      "votes": 0
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2387
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1153
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 224
     },
     {
-      "number": 4,
+      "number": 5,
       "party": "มิติใหม่",
       "votes": 127
-    },
-    {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 338
     },
     {
       "number": 6,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/56. ศรีสะเกษ เขต 7.json",
   "_validation": {
-    "vote_sum": 78925,
+    "vote_sum": 78587,
     "good_votes": 78925,
-    "sum_diff_pct": 0.4
+    "sum_diff_pct": 0.43
   },
   "province_code": "33",
   "province_name_normalized": "ศรีสะเกษ",
@@ -322,28 +322,28 @@
   },
   "matched_parties": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2387,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1153,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 224,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },
     {
-      "number": 4,
+      "number": 5,
       "party": "มิติใหม่",
       "votes": 127,
       "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
@@ -712,14 +712,15 @@
       "votes": 39,
       "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
       "party_code": "57"
-    },
-    {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 338,
-      "party_uuid": "e9f5dc95-0d5c-46bc-8e2c-be791faa2b27",
-      "party_code": "5"
     }
   ],
-  "unmatched_parties": []
+  "unmatched_parties": [
+    {
+      "number": 1,
+      "party": "พรรคที่ 1",
+      "votes": 0,
+      "party_uuid": null,
+      "party_code": null
+    }
+  ]
 }

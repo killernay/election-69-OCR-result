@@ -1,0 +1,167 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122067,
+    "1.2": 80097,
+    "2.1": 124120,
+    "2.2": 80097,
+    "2.3": 44023,
+    "3.1": 75480,
+    "3.2": 4,
+    "3.3": 4613,
+    "3.4": 80097,
+    "4.1": 74537,
+    "4.2": 3080,
+    "4.3": 2480
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายพรชัย ศรีสุริยันโยธิน",
+      "party": "ภูมิใจไทย",
+      "votes": 45919
+    },
+    {
+      "number": 1,
+      "name": "นายพรรณธนู วรรณกางซ้าย",
+      "party": "เพื่อไทย",
+      "votes": 13982
+    },
+    {
+      "number": 3,
+      "name": "นายณัฏฐชัย สวัสดี",
+      "party": "ประชาชน",
+      "votes": 11091
+    },
+    {
+      "number": 8,
+      "name": "นายธีรยุทธ อินทรกำแหง",
+      "party": "เศรษฐกิจ",
+      "votes": 880
+    },
+    {
+      "number": 9,
+      "name": "นายสมพงษ์ แช่มรัมย์",
+      "party": "ประชากรไทย",
+      "votes": 734
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณโมรี ฉกรรจ์ศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 621
+    },
+    {
+      "number": 4,
+      "name": "นายคำก่าย กองพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 522
+    },
+    {
+      "number": 7,
+      "name": "นายวุฒิชัย สุขพรรณดอน",
+      "party": "กล้าธรรม",
+      "votes": 406
+    },
+    {
+      "number": 6,
+      "name": "นายบุญเพ็ง สุรักษ์",
+      "party": "ปวงชนไทย",
+      "votes": 382
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 7.json",
+  "_validation": {
+    "vote_sum": 74537,
+    "good_votes": 74537,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 122067,
+    "voters_came": 80097,
+    "ballots_received": 124120,
+    "ballots_used": 80097,
+    "good_votes": 74537,
+    "invalid_votes": 3080,
+    "no_votes": 2480
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายพรชัย ศรีสุริยันโยธิน",
+      "party": "ภูมิใจไทย",
+      "votes": 45919,
+      "candidate_uuid": "50aa99b9-a0b4-4793-a83e-bd18d1344023",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพรรณธนู วรรณกางซ้าย",
+      "party": "เพื่อไทย",
+      "votes": 13982,
+      "candidate_uuid": "1665a383-6634-4d3b-b0ec-22f7b6e814f9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายณัฏฐชัย สวัสดี",
+      "party": "ประชาชน",
+      "votes": 11091,
+      "candidate_uuid": "f0dcdaf3-09ee-46d1-9e04-13013ec4f920",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธีรยุทธ อินทรกำแหง",
+      "party": "เศรษฐกิจ",
+      "votes": 880,
+      "candidate_uuid": "142d96df-aa6b-47f1-9212-b2d26393d0cc",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมพงษ์ แช่มรัมย์",
+      "party": "ประชากรไทย",
+      "votes": 734,
+      "candidate_uuid": "29ece4a0-f21d-4523-a00a-b8ab4b4b1d7a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณโมรี ฉกรรจ์ศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 621,
+      "candidate_uuid": "574b73d3-fda6-433d-ac0f-f20d1be3f2d1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายคำก่าย กองพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 522,
+      "candidate_uuid": "5d677072-7007-45ac-8779-38ed3f0d014b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวุฒิชัย สุขพรรณดอน",
+      "party": "กล้าธรรม",
+      "votes": 406,
+      "candidate_uuid": "f9cd573c-0b52-477c-829e-d93c978bf7a8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบุญเพ็ง สุรักษ์",
+      "party": "ปวงชนไทย",
+      "votes": 382,
+      "candidate_uuid": "87e11f5b-dd49-4e46-8889-d779a53c6811",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

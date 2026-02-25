@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายศิวะ พงศ์ธีระดุลย์",
       "party": "เพื่อไทย",
       "votes": 29851
@@ -30,55 +30,55 @@
       "votes": 23594
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นายสุขสันต์ ชื่นจิตร",
       "party": "กล้าธรรม",
       "votes": 19605
     },
     {
-      "number": 6,
+      "number": 4,
       "name": "นายอภิเดช ประทุมแก้ว",
       "party": "ประชาชน",
       "votes": 9294
     },
     {
-      "number": 1,
+      "number": 5,
       "name": "นายชยนนท์ คำเบ้า",
       "party": "ประชาธิปัตย์",
       "votes": 719
     },
     {
-      "number": 10,
+      "number": 6,
       "name": "นายปิยชัย โชติมาวณิช",
       "party": "เศรษฐกิจ",
       "votes": 711
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายวิชัย ปัญญา",
       "party": "ไทยทรัพย์ทวี",
       "votes": 646
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "ส.อ.นิติภัส สุภาพงษ์นันทกุล",
       "party": "รวมไทยสร้างชาติ",
       "votes": 448
     },
     {
-      "number": 11,
+      "number": 9,
       "name": "นายจงเจริญ เอกทวีกุล",
       "party": "ประชากรไทย",
       "votes": 278
     },
     {
-      "number": 7,
+      "number": 10,
       "name": "นายศรคม ภาชา",
       "party": "พลังประชารัฐ",
       "votes": 233
     },
     {
-      "number": 8,
+      "number": 11,
       "name": "นายหนูเสน พรมวงศ์",
       "party": "ทางเลือกใหม่",
       "votes": 71
@@ -103,7 +103,7 @@
   },
   "matched_candidates": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายศิวะ พงศ์ธีระดุลย์",
       "party": "เพื่อไทย",
       "votes": 29851,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นายสุขสันต์ ชื่นจิตร",
       "party": "กล้าธรรม",
       "votes": 19605,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 4,
       "name": "นายอภิเดช ประทุมแก้ว",
       "party": "ประชาชน",
       "votes": 9294,
@@ -135,7 +135,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 5,
       "name": "นายชยนนท์ คำเบ้า",
       "party": "ประชาธิปัตย์",
       "votes": 719,
@@ -143,7 +143,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 6,
       "name": "นายปิยชัย โชติมาวณิช",
       "party": "เศรษฐกิจ",
       "votes": 711,
@@ -151,7 +151,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายวิชัย ปัญญา",
       "party": "ไทยทรัพย์ทวี",
       "votes": 646,
@@ -159,7 +159,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "ส.อ.นิติภัส สุภาพงษ์นันทกุล",
       "party": "รวมไทยสร้างชาติ",
       "votes": 448,
@@ -167,7 +167,7 @@
       "is_active": true
     },
     {
-      "number": 11,
+      "number": 9,
       "name": "นายจงเจริญ เอกทวีกุล",
       "party": "ประชากรไทย",
       "votes": 278,
@@ -175,7 +175,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 10,
       "name": "นายศรคม ภาชา",
       "party": "พลังประชารัฐ",
       "votes": 233,
@@ -183,7 +183,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 11,
       "name": "นายหนูเสน พรมวงศ์",
       "party": "ทางเลือกใหม่",
       "votes": 71,

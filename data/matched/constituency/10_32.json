@@ -3,7 +3,7 @@
   "constituency_number": 32,
   "type": "constituency",
   "summary_by_section": {
-    "1.1": 139037,
+    "1.1": 142608,
     "1.2": 93917,
     "2.1": 140719,
     "2.2": 93917,
@@ -21,7 +21,7 @@
       "number": 15,
       "name": "นางสาวปวิตรา จิตตกิจ",
       "party": "ประชาชน",
-      "votes": 39727
+      "votes": 39327
     },
     {
       "number": 1,
@@ -42,16 +42,16 @@
       "votes": 10257
     },
     {
-      "number": 9,
+      "number": 3,
       "name": "นางสาวกัญญาวีร์ จารุสัมพันธ์กนก",
       "party": "รวมไทยสร้างชาติ",
-      "votes": 1429
+      "votes": 3024
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายวงศธร โชคภัทรชัยกิจ",
       "party": "เศรษฐกิจ",
-      "votes": 3024
+      "votes": 1429
     },
     {
       "number": 7,
@@ -78,10 +78,10 @@
       "votes": 700
     },
     {
-      "number": 11,
+      "number": 10,
       "name": "นายปารเมศ เอี่ยมศิลา",
       "party": "กล้าธรรม",
-      "votes": 435
+      "votes": 681
     },
     {
       "number": 12,
@@ -102,13 +102,13 @@
       "votes": 497
     },
     {
-      "number": 10,
+      "number": 13,
       "name": "นายวิละ อุดม",
       "party": "ทางเลือกใหม่",
-      "votes": 681
+      "votes": 435
     },
     {
-      "number": 13,
+      "number": 11,
       "name": "นางสาวนิธิสนี กลิ่นพันธหิรัญ",
       "party": "พลังประชารัฐ",
       "votes": 351
@@ -116,14 +116,14 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 32.json",
   "_validation": {
-    "vote_sum": 85631,
+    "vote_sum": 85231,
     "good_votes": 85631,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.47
   },
   "province_code": "10",
   "province_name_normalized": "กรุงเทพมหานคร",
   "summary": {
-    "eligible_voters": 139037,
+    "eligible_voters": 142608,
     "voters_came": 93917,
     "ballots_received": 140719,
     "ballots_used": 93917,
@@ -136,7 +136,7 @@
       "number": 15,
       "name": "นางสาวปวิตรา จิตตกิจ",
       "party": "ประชาชน",
-      "votes": 39727,
+      "votes": 39327,
       "candidate_uuid": "f07af3b7-2bb0-4dbe-a7c4-f278d7ae2a86",
       "is_active": true
     },
@@ -165,18 +165,18 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 3,
       "name": "นางสาวกัญญาวีร์ จารุสัมพันธ์กนก",
       "party": "รวมไทยสร้างชาติ",
-      "votes": 1429,
+      "votes": 3024,
       "candidate_uuid": "c7110744-085c-4218-b170-fe6f9d22fb42",
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายวงศธร โชคภัทรชัยกิจ",
       "party": "เศรษฐกิจ",
-      "votes": 3024,
+      "votes": 1429,
       "candidate_uuid": "a18fc1df-1a9d-4aab-9d41-658229592232",
       "is_active": true
     },
@@ -213,10 +213,10 @@
       "is_active": true
     },
     {
-      "number": 11,
+      "number": 10,
       "name": "นายปารเมศ เอี่ยมศิลา",
       "party": "กล้าธรรม",
-      "votes": 435,
+      "votes": 681,
       "candidate_uuid": "cc459902-0733-4deb-a952-110796fa5463",
       "is_active": true
     },
@@ -245,15 +245,15 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 13,
       "name": "นายวิละ อุดม",
       "party": "ทางเลือกใหม่",
-      "votes": 681,
+      "votes": 435,
       "candidate_uuid": "02b17442-3dcd-462a-879c-3e7a77a4cab9",
       "is_active": true
     },
     {
-      "number": 13,
+      "number": 11,
       "name": "นางสาวนิธิสนี กลิ่นพันธหิรัญ",
       "party": "พลังประชารัฐ",
       "votes": 351,

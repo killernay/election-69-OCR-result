@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายเสมอกัน เที่ยงธรรม",
       "party": "ภูมิใจไทย",
       "votes": 58049
@@ -36,31 +36,31 @@
       "votes": 5311
     },
     {
-      "number": 1,
+      "number": 4,
       "name": "นายยุทธนา โพธสุธน",
       "party": "กล้าธรรม",
       "votes": 2547
     },
     {
-      "number": 7,
+      "number": 5,
       "name": "นายวัฒนา ยั่งยืน",
       "party": "โอกาสใหม่",
       "votes": 1659
     },
     {
-      "number": 8,
+      "number": 6,
       "name": "นายสหรัฐ กุลศรี",
       "party": "พลังประชารัฐ",
       "votes": 1648
     },
     {
-      "number": 4,
+      "number": 7,
       "name": "ว่าที่ร้อยตำรวจโท ชินทัต อุบลแย้ม",
       "party": "ประชาธิปัตย์",
       "votes": 1556
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นายศรัณย์กร โชติวิชญทรรศน์",
       "party": "เศรษฐกิจ",
       "votes": 1254
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายเสมอกัน เที่ยงธรรม",
       "party": "ภูมิใจไทย",
       "votes": 58049,
@@ -109,7 +109,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 4,
       "name": "นายยุทธนา โพธสุธน",
       "party": "กล้าธรรม",
       "votes": 2547,
@@ -117,7 +117,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 5,
       "name": "นายวัฒนา ยั่งยืน",
       "party": "โอกาสใหม่",
       "votes": 1659,
@@ -125,7 +125,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 6,
       "name": "นายสหรัฐ กุลศรี",
       "party": "พลังประชารัฐ",
       "votes": 1648,
@@ -133,7 +133,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 7,
       "name": "ว่าที่ร้อยตำรวจโท ชินทัต อุบลแย้ม",
       "party": "ประชาธิปัตย์",
       "votes": 1556,
@@ -141,7 +141,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นายศรัณย์กร โชติวิชญทรรศน์",
       "party": "เศรษฐกิจ",
       "votes": 1254,

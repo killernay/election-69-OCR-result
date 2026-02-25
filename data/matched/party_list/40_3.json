@@ -250,7 +250,7 @@
     {
       "number": 47,
       "party": "ประชาไทย",
-      "votes": 111
+      "votes": 301
     },
     {
       "number": 48,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/6. ขอนแก่น เขต 3.json",
   "_validation": {
-    "vote_sum": 84521,
+    "vote_sum": 84711,
     "good_votes": 84521,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.22
   },
   "province_code": "40",
   "province_name_normalized": "ขอนแก่น",
@@ -646,7 +646,7 @@
     {
       "number": 47,
       "party": "ประชาไทย",
-      "votes": 111,
+      "votes": 301,
       "party_uuid": "a2917c34-67f8-4311-813f-3138fd2d9af0",
       "party_code": "47"
     },

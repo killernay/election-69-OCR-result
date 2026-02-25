@@ -4,9 +4,9 @@
   "type": "constituency",
   "summary_by_section": {
     "1.1": 143882,
-    "1.2": 110523,
+    "1.2": 115223,
     "2.1": 144726,
-    "2.2": 110523,
+    "2.2": 115223,
     "2.3": 34203,
     "3.1": 107717,
     "3.2": 10,
@@ -70,7 +70,7 @@
   "province_name_normalized": "ราชบุรี",
   "summary": {
     "eligible_voters": 143882,
-    "voters_came": 110523,
+    "voters_came": 115223,
     "ballots_received": 144726,
     "ballots_used": 115223,
     "good_votes": 96267,

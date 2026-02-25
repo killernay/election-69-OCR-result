@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": null,
       "name": "นายปรีติ เจริญศิลป์",
       "party": "ประชาชน",
       "votes": 41888
@@ -48,7 +48,7 @@
       "votes": 2424
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายประสงค์ เต็งทอง",
       "party": "เศรษฐกิจ",
       "votes": 1689
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": null,
       "name": "นายปรีติ เจริญศิลป์",
       "party": "ประชาชน",
       "votes": 41888,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายประสงค์ เต็งทอง",
       "party": "เศรษฐกิจ",
       "votes": 1689,

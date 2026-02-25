@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 3,
       "name": "นางมนพร เจริญศรี",
       "party": "เพื่อไทย",
       "votes": 51176
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายพิศาล บุพศิริ",
       "party": "ประชาชน",
       "votes": 16967
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": 3,
       "name": "นางมนพร เจริญศรี",
       "party": "เพื่อไทย",
       "votes": 51176,
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายพิศาล บุพศิริ",
       "party": "ประชาชน",
       "votes": 16967,

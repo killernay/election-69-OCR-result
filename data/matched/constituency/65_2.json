@@ -24,13 +24,13 @@
       "votes": 40429
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายณชพล พลอาสา",
       "party": "ประชาชน",
       "votes": 32070
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นางสาวปรานอม หลิมประเสริฐ",
       "party": "ภูมิใจไทย",
       "votes": 7084
@@ -87,7 +87,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายณชพล พลอาสา",
       "party": "ประชาชน",
       "votes": 32070,
@@ -95,7 +95,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นางสาวปรานอม หลิมประเสริฐ",
       "party": "ภูมิใจไทย",
       "votes": 7084,

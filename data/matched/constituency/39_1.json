@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 9,
+      "number": 3,
       "name": "นายชยานันท์ เกตุเมฆ",
       "party": "กล้าธรรม",
       "votes": 31594
@@ -48,7 +48,7 @@
       "votes": 1303
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายวิเชียร แสงบุดดา",
       "party": "เศรษฐกิจ",
       "votes": 1154
@@ -109,7 +109,7 @@
   },
   "matched_candidates": [
     {
-      "number": 9,
+      "number": 3,
       "name": "นายชยานันท์ เกตุเมฆ",
       "party": "กล้าธรรม",
       "votes": 31594,
@@ -149,7 +149,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายวิเชียร แสงบุดดา",
       "party": "เศรษฐกิจ",
       "votes": 1154,

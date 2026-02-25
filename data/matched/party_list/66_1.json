@@ -195,7 +195,7 @@
     {
       "number": 36,
       "party": "ไทยพร้อม",
-      "votes": 541
+      "votes": 491
     },
     {
       "number": 37,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/37. พิจิตร เขต 1.json",
   "_validation": {
-    "vote_sum": 91071,
+    "vote_sum": 91021,
     "good_votes": 91071,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.05
   },
   "province_code": "66",
   "province_name_normalized": "พิจิตร",
@@ -569,7 +569,7 @@
     {
       "number": 36,
       "party": "ไทยพร้อม",
-      "votes": 541,
+      "votes": 491,
       "party_uuid": "54c9efd2-2cd9-487a-91f7-1251aae30c2d",
       "party_code": "36"
     },

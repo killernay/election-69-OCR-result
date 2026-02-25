@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": "A",
       "name": "นายกฤช ศิลปชัย",
       "party": "ประชาชน",
       "votes": 33687
@@ -67,7 +67,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": "A",
       "name": "นายกฤช ศิลปชัย",
       "party": "ประชาชน",
       "votes": 33687,

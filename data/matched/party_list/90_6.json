@@ -3,7 +3,7 @@
   "constituency_number": 6,
   "type": "party_list",
   "summary_by_section": {
-    "1.1": 115747,
+    "1.1": 155747,
     "1.2": 93834,
     "2.1": 112350,
     "2.2": 93834,
@@ -54,7 +54,7 @@
     },
     {
       "number": 8,
-      "party": "ประชาธิปไตยใหม่",
+      "party": "ประชาธิปไตยไทยใหม่",
       "votes": 1036
     },
     {
@@ -109,17 +109,17 @@
     },
     {
       "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
+      "party": "สังคมประชาธิปไตย",
       "votes": 60
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 14
     },
     {
       "number": 21,
-      "party": "ไทรวมพลัง",
+      "party": "ไทยรวมพลัง",
       "votes": 79
     },
     {
@@ -312,7 +312,7 @@
   "province_code": "90",
   "province_name_normalized": "สงขลา",
   "summary": {
-    "eligible_voters": 115747,
+    "eligible_voters": 155747,
     "voters_came": 93834,
     "ballots_received": 112350,
     "ballots_used": 93834,
@@ -442,7 +442,7 @@
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 14,
       "party_uuid": "e89089ab-9e07-4933-ab7c-28f2e65bed81",
       "party_code": "20"

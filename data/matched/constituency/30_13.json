@@ -36,7 +36,7 @@
       "votes": 5887
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอัคคชา พรหมสูตร",
       "party": "เศรษฐกิจ",
       "votes": 3028
@@ -54,13 +54,13 @@
       "votes": 1775
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายวิชัย ขอหมั่นกลาง",
       "party": "เพื่อบ้านเมือง",
       "votes": 310
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "ถูกถอนชื่อ",
       "party": "กล้าธรรม",
       "votes": 0
@@ -109,7 +109,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอัคคชา พรหมสูตร",
       "party": "เศรษฐกิจ",
       "votes": 3028,
@@ -133,21 +133,22 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายวิชัย ขอหมั่นกลาง",
       "party": "เพื่อบ้านเมือง",
       "votes": 310,
       "candidate_uuid": "7bddc73c-df52-4f5d-9355-b431dcf25c56",
       "is_active": true
-    },
+    }
+  ],
+  "unmatched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "ถูกถอนชื่อ",
       "party": "กล้าธรรม",
       "votes": 0,
-      "candidate_uuid": "c09c6f6c-a134-4386-89a6-c34599ec11c1",
-      "is_active": false
+      "candidate_uuid": null,
+      "is_active": null
     }
-  ],
-  "unmatched_candidates": []
+  ]
 }

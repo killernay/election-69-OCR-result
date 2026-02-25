@@ -42,7 +42,7 @@
       "votes": 9433
     },
     {
-      "number": 9,
+      "number": 6,
       "name": "นายจักรพงศ์ อินทลบ",
       "party": "เศรษฐกิจ",
       "votes": 2359
@@ -60,13 +60,13 @@
       "votes": 711
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นางทัศนีย์ ศรีถาพร",
       "party": "ปวงชนไทย",
       "votes": 639
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายเพิ่มศักดิ์ จันทร์แดง",
       "party": "ไทยพร้อม",
       "votes": 120
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 6,
       "name": "นายจักรพงศ์ อินทลบ",
       "party": "เศรษฐกิจ",
       "votes": 2359,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นางทัศนีย์ ศรีถาพร",
       "party": "ปวงชนไทย",
       "votes": 639,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายเพิ่มศักดิ์ จันทร์แดง",
       "party": "ไทยพร้อม",
       "votes": 120,

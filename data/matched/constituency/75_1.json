@@ -8,7 +8,7 @@
     "2.1": 158020,
     "2.2": 113409,
     "2.3": 44611,
-    "3.1": 109446,
+    "3.1": 109546,
     "3.2": 57,
     "3.3": 3906,
     "3.4": 113409,
@@ -21,7 +21,7 @@
       "number": 5,
       "name": "นายอานุภาพ ลิขิตอำนวยชัย",
       "party": "ประชาชน",
-      "votes": 39492
+      "votes": 39592
     },
     {
       "number": 1,
@@ -56,9 +56,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/61. สมุทรสงคราม เขต 1.json",
   "_validation": {
-    "vote_sum": 101938,
+    "vote_sum": 102038,
     "good_votes": 101938,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.1
   },
   "province_code": "75",
   "province_name_normalized": "สมุทรสงคราม",
@@ -76,7 +76,7 @@
       "number": 5,
       "name": "นายอานุภาพ ลิขิตอำนวยชัย",
       "party": "ประชาชน",
-      "votes": 39492,
+      "votes": 39592,
       "candidate_uuid": "229b490d-5841-4a74-b014-25c73d4a06ad",
       "is_active": true
     },

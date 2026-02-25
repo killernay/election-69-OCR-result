@@ -4,9 +4,9 @@
   "type": "party_list",
   "summary_by_section": {
     "1.1": 124913,
-    "1.2": 98639,
+    "1.2": 94639,
     "2.1": 128080,
-    "2.2": 98624,
+    "2.2": 94624,
     "2.3": 29456,
     "3.1": 89642,
     "3.2": 38,
@@ -313,9 +313,9 @@
   "province_name_normalized": "พะเยา",
   "summary": {
     "eligible_voters": 124913,
-    "voters_came": 98639,
+    "voters_came": 94639,
     "ballots_received": 128080,
-    "ballots_used": 98624,
+    "ballots_used": 94624,
     "good_votes": 92929,
     "invalid_votes": 3590,
     "no_votes": 2105

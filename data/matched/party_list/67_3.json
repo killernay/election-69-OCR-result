@@ -150,7 +150,7 @@
     {
       "number": 27,
       "party": "ประชาธิปัตย์",
-      "votes": 7457
+      "votes": 7557
     },
     {
       "number": 28,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/40. เพชรบูรณ์ เขต 3.json",
   "_validation": {
-    "vote_sum": 83320,
+    "vote_sum": 83420,
     "good_votes": 83320,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.12
   },
   "province_code": "67",
   "province_name_normalized": "เพชรบูรณ์",
@@ -506,7 +506,7 @@
     {
       "number": 27,
       "party": "ประชาธิปัตย์",
-      "votes": 7457,
+      "votes": 7557,
       "party_uuid": "d7155f6d-736d-42c0-8bc0-00ee6e1970dc",
       "party_code": "27"
     },

@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายปิยวัฒน์ กิตติธเนศวร",
       "party": "กล้าธรรม",
       "votes": 33707
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "พลตำรวจตรี สุรพล บุญมา",
       "party": "ภูมิใจไทย",
       "votes": 29822
@@ -36,13 +36,13 @@
       "votes": 11054
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "พลโท วีรากร ประกอบ",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1290
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นายสำเร็จ ศรีจันทร์",
       "party": "ประชาธิปัตย์",
       "votes": 908
@@ -67,7 +67,7 @@
   },
   "matched_candidates": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายปิยวัฒน์ กิตติธเนศวร",
       "party": "กล้าธรรม",
       "votes": 33707,
@@ -75,7 +75,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "พลตำรวจตรี สุรพล บุญมา",
       "party": "ภูมิใจไทย",
       "votes": 29822,
@@ -91,7 +91,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "พลโท วีรากร ประกอบ",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1290,
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นายสำเร็จ ศรีจันทร์",
       "party": "ประชาธิปัตย์",
       "votes": 908,

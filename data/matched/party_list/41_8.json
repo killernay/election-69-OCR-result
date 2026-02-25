@@ -190,7 +190,7 @@
     {
       "number": 35,
       "party": "รักชาติ",
-      "votes": 285
+      "votes": 245
     },
     {
       "number": 36,
@@ -220,7 +220,7 @@
     {
       "number": 41,
       "party": "แผ่นดินธรรม",
-      "votes": 28
+      "votes": 24
     },
     {
       "number": 42,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/74. อุดรธานี เขต 8.json",
   "_validation": {
-    "vote_sum": 70133,
+    "vote_sum": 70089,
     "good_votes": 70133,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.06
   },
   "province_code": "41",
   "province_name_normalized": "อุดรธานี",
@@ -562,7 +562,7 @@
     {
       "number": 35,
       "party": "รักชาติ",
-      "votes": 285,
+      "votes": 245,
       "party_uuid": "54706125-9661-467d-a8af-78994d14b116",
       "party_code": "35"
     },
@@ -604,7 +604,7 @@
     {
       "number": 41,
       "party": "แผ่นดินธรรม",
-      "votes": 28,
+      "votes": 24,
       "party_uuid": "22076b92-676c-49f4-aa1c-377cc1e91e71",
       "party_code": "41"
     },

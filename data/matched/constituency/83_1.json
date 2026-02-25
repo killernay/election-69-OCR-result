@@ -21,7 +21,7 @@
       "number": 3,
       "name": "ว่าที่ร้อยตรีสมชาติ เตชถาวรเจริญ",
       "party": "ประชาชน",
-      "votes": 19458
+      "votes": 19558
     },
     {
       "number": 4,
@@ -62,9 +62,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/42. ภูเก็ต เขต 1.json",
   "_validation": {
-    "vote_sum": 66360,
+    "vote_sum": 66460,
     "good_votes": 66360,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.15
   },
   "province_code": "83",
   "province_name_normalized": "ภูเก็ต",
@@ -82,7 +82,7 @@
       "number": 3,
       "name": "ว่าที่ร้อยตรีสมชาติ เตชถาวรเจริญ",
       "party": "ประชาชน",
-      "votes": 19458,
+      "votes": 19558,
       "candidate_uuid": "318b752c-18e7-4099-af33-4b9e7cb124ea",
       "is_active": true
     },

@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายวัชรพล โตมรศักดิ์",
       "party": "เพื่อไทย",
       "votes": 39980
@@ -36,13 +36,13 @@
       "votes": 9871
     },
     {
-      "number": 9,
+      "number": 3,
       "name": "นายอุดม พรมยกบัตร์",
       "party": "เศรษฐกิจ",
       "votes": 3023
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายกฤษ อัครวงษ์สกุล",
       "party": "ชาติ",
       "votes": 1432
@@ -60,7 +60,7 @@
       "votes": 668
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายทักษิณ เขื่อนโคกสูง",
       "party": "ไทยก้าวใหม่",
       "votes": 652
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายวัชรพล โตมรศักดิ์",
       "party": "เพื่อไทย",
       "votes": 39980,
@@ -121,7 +121,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 3,
       "name": "นายอุดม พรมยกบัตร์",
       "party": "เศรษฐกิจ",
       "votes": 3023,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายกฤษ อัครวงษ์สกุล",
       "party": "ชาติ",
       "votes": 1432,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายทักษิณ เขื่อนโคกสูง",
       "party": "ไทยก้าวใหม่",
       "votes": 652,

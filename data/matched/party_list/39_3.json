@@ -30,7 +30,7 @@
     {
       "number": 3,
       "party": "ใหม่",
-      "votes": 625
+      "votes": 620
     },
     {
       "number": 4,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/71. หนองบัวลำภู เขต 3.json",
   "_validation": {
-    "vote_sum": 76807,
+    "vote_sum": 76802,
     "good_votes": 76807,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.01
   },
   "province_code": "39",
   "province_name_normalized": "หนองบัวลำภู",
@@ -338,7 +338,7 @@
     {
       "number": 3,
       "party": "ใหม่",
-      "votes": 625,
+      "votes": 620,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },

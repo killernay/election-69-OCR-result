@@ -30,7 +30,7 @@
       "votes": 59873
     },
     {
-      "number": 7,
+      "number": 3,
       "name": "บุญเทวี",
       "party": "เศรษฐกิจ",
       "votes": 503
@@ -54,13 +54,13 @@
       "votes": 146
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นางกัญญ์พิดา เพียรกสิโภคิน",
       "party": "ปวงชนไทย",
       "votes": 435
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายองอาจ ศรีขาล",
       "party": "กล้าธรรม",
       "votes": 415
@@ -125,7 +125,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นางกัญญ์พิดา เพียรกสิโภคิน",
       "party": "ปวงชนไทย",
       "votes": 435,
@@ -133,21 +133,22 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายองอาจ ศรีขาล",
       "party": "กล้าธรรม",
       "votes": 415,
       "candidate_uuid": "1a50b6af-c21d-47d9-9a84-cd7359cd7c33",
       "is_active": true
-    },
+    }
+  ],
+  "unmatched_candidates": [
     {
-      "number": 7,
+      "number": 3,
       "name": "บุญเทวี",
       "party": "เศรษฐกิจ",
       "votes": 503,
-      "candidate_uuid": "63ded4dd-deef-4e72-becf-7cce3e0a9858",
-      "is_active": true
+      "candidate_uuid": null,
+      "is_active": null
     }
-  ],
-  "unmatched_candidates": []
+  ]
 }

@@ -6,7 +6,7 @@
     "1.1": 125704,
     "1.2": 93879,
     "2.1": 124100,
-    "2.2": 93880,
+    "2.2": 93879,
     "2.3": 30220,
     "3.1": 88392,
     "3.2": 165,
@@ -184,7 +184,7 @@
     },
     {
       "number": 34,
-      "party": "สร้างอนาคตไทย",
+      "party": "สรางอนาคตไทย",
       "votes": 113
     },
     {
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/55. เลย เขต 1.json",
   "_validation": {
-    "vote_sum": 86344,
+    "vote_sum": 82344,
     "good_votes": 86344,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 4.63
   },
   "province_code": "42",
   "province_name_normalized": "เลย",
@@ -315,7 +315,7 @@
     "eligible_voters": 125704,
     "voters_came": 93879,
     "ballots_received": 124100,
-    "ballots_used": 93880,
+    "ballots_used": 93879,
     "good_votes": 86344,
     "invalid_votes": 4372,
     "no_votes": 3164

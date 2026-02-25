@@ -48,7 +48,7 @@
       "votes": 3539
     },
     {
-      "number": 9,
+      "number": 6,
       "name": "นายศิธา วงศ์วรพรรณ",
       "party": "เศรษฐกิจ",
       "votes": 884
@@ -60,13 +60,13 @@
       "votes": 817
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นายนุกูล พูลสวัสดิ์",
       "party": "ไทยก้าวใหม่",
       "votes": 564
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายวัชระ ไชยชำนิ",
       "party": "ทางเลือกใหม่",
       "votes": 212
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 6,
       "name": "นายศิธา วงศ์วรพรรณ",
       "party": "เศรษฐกิจ",
       "votes": 884,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 8,
       "name": "นายนุกูล พูลสวัสดิ์",
       "party": "ไทยก้าวใหม่",
       "votes": 564,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายวัชระ ไชยชำนิ",
       "party": "ทางเลือกใหม่",
       "votes": 212,

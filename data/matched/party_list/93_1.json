@@ -4,7 +4,7 @@
   "type": "party_list",
   "summary_by_section": {
     "1.1": 134471,
-    "1.2": 113867,
+    "1.2": 113467,
     "2.1": 136155,
     "2.2": 113867,
     "2.3": 22288,
@@ -313,7 +313,7 @@
   "province_name_normalized": "พัทลุง",
   "summary": {
     "eligible_voters": 134471,
-    "voters_came": 113867,
+    "voters_came": 113467,
     "ballots_received": 136155,
     "ballots_used": 113867,
     "good_votes": 108460,

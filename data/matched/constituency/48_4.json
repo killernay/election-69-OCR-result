@@ -24,19 +24,19 @@
       "votes": 41312
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายชูกัน กุลวงษา",
       "party": "ภูมิใจไทย",
       "votes": 35119
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายวุฒิพงษ์ มีบุญ",
       "party": "ประชาชน",
       "votes": 11444
     },
     {
-      "number": 9,
+      "number": 4,
       "name": "นายบัญชา มาตย์วังแสง",
       "party": "ไทยพร้อม",
       "votes": 1637
@@ -54,7 +54,7 @@
       "votes": 620
     },
     {
-      "number": 4,
+      "number": 9,
       "name": "นายวิลัย ยศสุริยะชัย",
       "party": "ปวงชนไทย",
       "votes": 451
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "นายชูกัน กุลวงษา",
       "party": "ภูมิใจไทย",
       "votes": 35119,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายวุฒิพงษ์ มีบุญ",
       "party": "ประชาชน",
       "votes": 11444,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 4,
       "name": "นายบัญชา มาตย์วังแสง",
       "party": "ไทยพร้อม",
       "votes": 1637,
@@ -151,7 +151,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 9,
       "name": "นายวิลัย ยศสุริยะชัย",
       "party": "ปวงชนไทย",
       "votes": 451,

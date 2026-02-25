@@ -13,7 +13,7 @@
     "3.3": 6937,
     "3.4": 105979,
     "4.1": 93176,
-    "4.2": 3395,
+    "4.2": 3394,
     "4.3": 9408
   },
   "results": [
@@ -30,13 +30,13 @@
       "votes": 27002
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายนวมินทร์ ปิ่นปฐมรัฐ",
       "party": "ประชาชน",
       "votes": 25124
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสุภณัฏฐ์ ชุมภูทอง",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2500
@@ -68,7 +68,7 @@
     "ballots_received": 135875,
     "ballots_used": 105979,
     "good_votes": 93176,
-    "invalid_votes": 3395,
+    "invalid_votes": 3394,
     "no_votes": 9408
   },
   "matched_candidates": [
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายนวมินทร์ ปิ่นปฐมรัฐ",
       "party": "ประชาชน",
       "votes": 25124,
@@ -97,7 +97,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสุภณัฏฐ์ ชุมภูทอง",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2500,

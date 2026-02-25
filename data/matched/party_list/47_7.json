@@ -119,7 +119,7 @@
     },
     {
       "number": 21,
-      "party": "ไทรวมพลัง",
+      "party": "ไทยรวมพลัง",
       "votes": 41
     },
     {
@@ -306,8 +306,8 @@
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/57. สกลนคร เขต 7.json",
   "_validation": {
     "vote_sum": 72383,
-    "good_votes": 72383,
-    "sum_diff_pct": 0.6
+    "good_votes": 71983,
+    "sum_diff_pct": 0.56
   },
   "province_code": "47",
   "province_name_normalized": "สกลนคร",

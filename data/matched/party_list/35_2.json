@@ -18,24 +18,19 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 1516
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1416
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 1940
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 102
     },
     {
       "number": 5,
@@ -305,9 +300,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/46. ยโสธร เขต 2.json",
   "_validation": {
-    "vote_sum": 89211,
+    "vote_sum": 89109,
     "good_votes": 89211,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.11
   },
   "province_code": "35",
   "province_name_normalized": "ยโสธร",
@@ -322,32 +317,25 @@
   },
   "matched_parties": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 1516,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1416,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 1940,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 102,
-      "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
-      "party_code": "4"
     },
     {
       "number": 5,

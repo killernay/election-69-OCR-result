@@ -129,7 +129,7 @@
     },
     {
       "number": 23,
-      "party": "ปวงชนไทย",
+      "party": "ก้าวอิสระ",
       "votes": 30
     },
     {
@@ -306,8 +306,8 @@
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/58. สงขลา เขต 5.json",
   "_validation": {
     "vote_sum": 98003,
-    "good_votes": 98003,
-    "sum_diff_pct": 0.1
+    "good_votes": 97917,
+    "sum_diff_pct": 0.09
   },
   "province_code": "90",
   "province_name_normalized": "สงขลา",

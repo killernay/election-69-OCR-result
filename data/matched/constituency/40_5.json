@@ -30,49 +30,49 @@
       "votes": 32006
     },
     {
-      "number": 2,
+      "number": 1,
       "name": "นางคะนางค์ รักโนนสูง",
       "party": "ประชาชน",
       "votes": 8867
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายอภิวัตน์ จ่าตา",
       "party": "ภูมิใจไทย",
       "votes": 1685
     },
     {
-      "number": 9,
+      "number": 5,
       "name": "นายจิรจิตติ์ นามจันดี",
       "party": "ไทยก้าวใหม่",
       "votes": 1043
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "ด.ต.บุญเหลือ แก่งสันเทียะ",
       "party": "เศรษฐกิจ",
       "votes": 619
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายวิรัตน์ ปัตโต",
       "party": "ประชาธิปัตย์",
       "votes": 409
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นางสบาย ธรรมเขต",
       "party": "รวมไทยสร้างชาติ",
       "votes": 193
     },
     {
-      "number": 10,
+      "number": 9,
       "name": "นายศักดิ์ชัย คำขวา",
       "party": "ทางเลือกใหม่",
       "votes": 87
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นายภิเภก คำชมพู",
       "party": "ประชาธิปไตยใหม่",
       "votes": 80
@@ -113,7 +113,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 1,
       "name": "นางคะนางค์ รักโนนสูง",
       "party": "ประชาชน",
       "votes": 8867,
@@ -121,7 +121,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายอภิวัตน์ จ่าตา",
       "party": "ภูมิใจไทย",
       "votes": 1685,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 5,
       "name": "นายจิรจิตติ์ นามจันดี",
       "party": "ไทยก้าวใหม่",
       "votes": 1043,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "ด.ต.บุญเหลือ แก่งสันเทียะ",
       "party": "เศรษฐกิจ",
       "votes": 619,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายวิรัตน์ ปัตโต",
       "party": "ประชาธิปัตย์",
       "votes": 409,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นางสบาย ธรรมเขต",
       "party": "รวมไทยสร้างชาติ",
       "votes": 193,
@@ -161,7 +161,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 9,
       "name": "นายศักดิ์ชัย คำขวา",
       "party": "ทางเลือกใหม่",
       "votes": 87,
@@ -169,7 +169,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นายภิเภก คำชมพู",
       "party": "ประชาธิปไตยใหม่",
       "votes": 80,

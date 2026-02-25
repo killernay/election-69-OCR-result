@@ -27,7 +27,7 @@
       "number": 5,
       "name": "นายทรงศักดิ์ ส่งเสริมอุดมชัย",
       "party": "เพื่อไทย",
-      "votes": 28624
+      "votes": 28620
     },
     {
       "number": 2,
@@ -62,7 +62,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 2.json",
   "_validation": {
-    "vote_sum": 96984,
+    "vote_sum": 96980,
     "good_votes": 96984,
     "sum_diff_pct": 0.0
   },
@@ -90,7 +90,7 @@
       "number": 5,
       "name": "นายทรงศักดิ์ ส่งเสริมอุดมชัย",
       "party": "เพื่อไทย",
-      "votes": 28624,
+      "votes": 28620,
       "candidate_uuid": "b3318db9-b899-47e2-830c-b0b636dcc0eb",
       "is_active": true
     },

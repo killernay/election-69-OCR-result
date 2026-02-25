@@ -33,7 +33,7 @@
       "number": 1,
       "name": "นายภิศิษฐ์ วงศ์ทอง",
       "party": "ประชาชน",
-      "votes": 15595
+      "votes": 15545
     },
     {
       "number": 9,
@@ -74,9 +74,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/75. อุตรดิตถ์ เขต 2.json",
   "_validation": {
-    "vote_sum": 74992,
+    "vote_sum": 74942,
     "good_votes": 74992,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.07
   },
   "province_code": "53",
   "province_name_normalized": "อุตรดิตถ์",
@@ -110,7 +110,7 @@
       "number": 1,
       "name": "นายภิศิษฐ์ วงศ์ทอง",
       "party": "ประชาชน",
-      "votes": 15595,
+      "votes": 15545,
       "candidate_uuid": "ecc1afa1-71c9-4c9a-aee7-f639f150cba3",
       "is_active": true
     },

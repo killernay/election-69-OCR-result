@@ -18,43 +18,43 @@
   },
   "results": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายบุญจง วงศ์ไตรรัตน์",
       "party": "ภูมิใจไทย",
       "votes": 43185
     },
     {
-      "number": 7,
+      "number": 2,
       "name": "นายอภิชา เลิศพชรกมล",
       "party": "เพื่อไทย",
       "votes": 37863
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นางสาวดวงทิพย์ ปานรักษา",
       "party": "ประชาชน",
       "votes": 15343
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายเสกสกล อัตถาวงศ์",
       "party": "โอกาสใหม่",
       "votes": 4824
     },
     {
-      "number": 3,
+      "number": 5,
       "name": "นายธนยศ โปร่งกระโทก",
       "party": "เศรษฐกิจ",
       "votes": 1261
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายสมชาติ เดชดอน",
       "party": "กล้าธรรม",
       "votes": 1050
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นางกาญจนา บุญมีศิริทิพงศ์",
       "party": "ประชาธิปัตย์",
       "votes": 560
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายบุญจง วงศ์ไตรรัตน์",
       "party": "ภูมิใจไทย",
       "votes": 43185,
@@ -93,7 +93,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 2,
       "name": "นายอภิชา เลิศพชรกมล",
       "party": "เพื่อไทย",
       "votes": 37863,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นางสาวดวงทิพย์ ปานรักษา",
       "party": "ประชาชน",
       "votes": 15343,
@@ -109,7 +109,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายเสกสกล อัตถาวงศ์",
       "party": "โอกาสใหม่",
       "votes": 4824,
@@ -117,7 +117,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 5,
       "name": "นายธนยศ โปร่งกระโทก",
       "party": "เศรษฐกิจ",
       "votes": 1261,
@@ -125,7 +125,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายสมชาติ เดชดอน",
       "party": "กล้าธรรม",
       "votes": 1050,
@@ -133,7 +133,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นางกาญจนา บุญมีศิริทิพงศ์",
       "party": "ประชาธิปัตย์",
       "votes": 560,

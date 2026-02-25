@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายวรายุทธ จงอักษร",
       "party": "ภูมิใจไทย",
       "votes": 51233
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายบุญแก้ว สมวงศ์",
       "party": "เพื่อไทย",
       "votes": 28880
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายวรายุทธ จงอักษร",
       "party": "ภูมิใจไทย",
       "votes": 51233,
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายบุญแก้ว สมวงศ์",
       "party": "เพื่อไทย",
       "votes": 28880,

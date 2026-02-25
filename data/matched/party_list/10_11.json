@@ -34,7 +34,7 @@
     },
     {
       "number": 4,
-      "party": "มิติใหม่",
+      "party": "บิติใหม่",
       "votes": 35
     },
     {
@@ -205,7 +205,7 @@
     {
       "number": 38,
       "party": "พลังธรรมใหม่",
-      "votes": 48
+      "votes": 93
     },
     {
       "number": 39,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/1. กรุงเทพมหานคร เขต 11.json",
   "_validation": {
-    "vote_sum": 96112,
+    "vote_sum": 96157,
     "good_votes": 96112,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.05
   },
   "province_code": "10",
   "province_name_normalized": "กรุงเทพมหานคร",
@@ -344,7 +344,7 @@
     },
     {
       "number": 4,
-      "party": "มิติใหม่",
+      "party": "บิติใหม่",
       "votes": 35,
       "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
       "party_code": "4"
@@ -583,7 +583,7 @@
     {
       "number": 38,
       "party": "พลังธรรมใหม่",
-      "votes": 48,
+      "votes": 93,
       "party_uuid": "2b1669bf-b61b-40b2-96a4-b235fa1e1501",
       "party_code": "38"
     },

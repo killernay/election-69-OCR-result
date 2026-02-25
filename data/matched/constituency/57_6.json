@@ -54,13 +54,13 @@
       "votes": 509
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายบัณฑิต สุรินเปา",
       "party": "ไทยก้าวหน้า",
       "votes": 429
     },
     {
-      "number": 5,
+      "number": 8,
       "name": "นางภัทรวัลย์ ผลไพบูลย์",
       "party": "พลวัต",
       "votes": 301
@@ -133,7 +133,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายบัณฑิต สุรินเปา",
       "party": "ไทยก้าวหน้า",
       "votes": 429,
@@ -141,7 +141,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 8,
       "name": "นางภัทรวัลย์ ผลไพบูลย์",
       "party": "พลวัต",
       "votes": 301,

@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายสาคร ลักษณะสุข",
       "party": "รวมใจไทย",
       "votes": 358
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายก้องเกียรติ วงศ์นิยม",
       "party": "ภูมิใจไทย",
       "votes": 14417
@@ -60,13 +60,13 @@
       "votes": 32534
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายพิชิต เคหะสุวรรณ์",
       "party": "พลังประชารัฐ",
       "votes": 757
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายบัญญัติ ทุมมี",
       "party": "โอกาสใหม่",
       "votes": 517
@@ -115,7 +115,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายสาคร ลักษณะสุข",
       "party": "รวมใจไทย",
       "votes": 358,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายก้องเกียรติ วงศ์นิยม",
       "party": "ภูมิใจไทย",
       "votes": 14417,
@@ -171,7 +171,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายพิชิต เคหะสุวรรณ์",
       "party": "พลังประชารัฐ",
       "votes": 757,
@@ -179,7 +179,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายบัญญัติ ทุมมี",
       "party": "โอกาสใหม่",
       "votes": 517,

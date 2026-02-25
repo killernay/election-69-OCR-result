@@ -36,25 +36,25 @@
       "votes": 9433
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายยุทธนา อ่าวลึกน้อย",
       "party": "เพื่อไทย",
       "votes": 2694
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายวิชากร บุญฤทธิ์",
       "party": "พลังประชารัฐ",
       "votes": 1275
     },
     {
-      "number": 7,
+      "number": 3,
       "name": "นายสีหเดช แสงจันทร์",
       "party": "เศรษฐกิจ",
       "votes": 828
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายสมใจ นวลนุ่น",
       "party": "ไทยก้าวใหม่",
       "votes": 813
@@ -103,7 +103,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายยุทธนา อ่าวลึกน้อย",
       "party": "เพื่อไทย",
       "votes": 2694,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายวิชากร บุญฤทธิ์",
       "party": "พลังประชารัฐ",
       "votes": 1275,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 3,
       "name": "นายสีหเดช แสงจันทร์",
       "party": "เศรษฐกิจ",
       "votes": 828,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายสมใจ นวลนุ่น",
       "party": "ไทยก้าวใหม่",
       "votes": 813,

@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 9,
+      "number": 1,
       "name": "นายณัฐพงษ์ สุปริยศิลป์",
       "party": "เพื่อไทย",
       "votes": 16170
@@ -48,7 +48,7 @@
       "votes": 1560
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายรัฐภูมิ ขันสลี",
       "party": "กล้าธรรม",
       "votes": 11813
@@ -66,7 +66,7 @@
       "votes": 5331
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นายณัฐพงษ์ ไชยศิลป์",
       "party": "โอกาสใหม่",
       "votes": 1338
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 9,
+      "number": 1,
       "name": "นายณัฐพงษ์ สุปริยศิลป์",
       "party": "เพื่อไทย",
       "votes": 16170,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 6,
       "name": "นายรัฐภูมิ ขันสลี",
       "party": "กล้าธรรม",
       "votes": 11813,
@@ -161,7 +161,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นายณัฐพงษ์ ไชยศิลป์",
       "party": "โอกาสใหม่",
       "votes": 1338,

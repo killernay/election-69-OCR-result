@@ -19,18 +19,18 @@
   "results": [
     {
       "number": 1,
+      "party": "ใหม่",
+      "votes": 268
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2617
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1860
-    },
-    {
-      "number": 3,
-      "party": "ใหม่",
-      "votes": 268
     },
     {
       "number": 4,
@@ -245,7 +245,7 @@
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 14844
+      "votes": 14484
     },
     {
       "number": 47,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/77. อุบลราชธานี เขต 7.json",
   "_validation": {
-    "vote_sum": 84963,
+    "vote_sum": 84603,
     "good_votes": 84963,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.42
   },
   "province_code": "34",
   "province_name_normalized": "อุบลราชธานี",
@@ -322,21 +322,21 @@
   },
   "matched_parties": [
     {
-      "number": 3,
+      "number": 1,
       "party": "ใหม่",
       "votes": 268,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2617,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1860,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
@@ -639,7 +639,7 @@
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 14844,
+      "votes": 14484,
       "party_uuid": "1116011c-1ef3-4cca-a186-c1b9f7984ede",
       "party_code": "46"
     },

@@ -134,7 +134,7 @@
     },
     {
       "number": 24,
-      "party": "วิชชั่นใหม่",
+      "party": "วิชชันใหม่",
       "votes": 62
     },
     {
@@ -200,7 +200,7 @@
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 28593
+      "votes": 28543
     },
     {
       "number": 38,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/23. นครสวรรค์ เขต 2.json",
   "_validation": {
-    "vote_sum": 94978,
+    "vote_sum": 94928,
     "good_votes": 94978,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.05
   },
   "province_code": "60",
   "province_name_normalized": "นครสวรรค์",
@@ -569,7 +569,7 @@
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 28593,
+      "votes": 28543,
       "party_uuid": "013c219e-e197-416d-84ea-00ba9c35465e",
       "party_code": "37"
     },

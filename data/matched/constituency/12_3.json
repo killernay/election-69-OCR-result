@@ -21,7 +21,7 @@
       "number": 7,
       "name": "นายอนุสรณ์ แก้ววิเชียร",
       "party": "ประชาชน",
-      "votes": 47405
+      "votes": 47505
     },
     {
       "number": 2,
@@ -30,13 +30,13 @@
       "votes": 17748
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "ผศ.สิริภิญญ์ อินทรประเสริฐ",
       "party": "ภูมิใจไทย",
       "votes": 15854
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายเอิบ พงบุหงอ",
       "party": "ประชาธิปัตย์",
       "votes": 7291
@@ -54,7 +54,7 @@
       "votes": 1873
     },
     {
-      "number": 5,
+      "number": 9,
       "name": "นายวุฒิบูรณ์ วิ่งวน",
       "party": "กล้าธรรม",
       "votes": 1160
@@ -86,9 +86,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 3.json",
   "_validation": {
-    "vote_sum": 96521,
+    "vote_sum": 96621,
     "good_votes": 96521,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.1
   },
   "province_code": "12",
   "province_name_normalized": "นนทบุรี",
@@ -106,7 +106,7 @@
       "number": 7,
       "name": "นายอนุสรณ์ แก้ววิเชียร",
       "party": "ประชาชน",
-      "votes": 47405,
+      "votes": 47505,
       "candidate_uuid": "bc52c96c-3aff-4ce2-a642-51de39fa5072",
       "is_active": true
     },
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "ผศ.สิริภิญญ์ อินทรประเสริฐ",
       "party": "ภูมิใจไทย",
       "votes": 15854,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายเอิบ พงบุหงอ",
       "party": "ประชาธิปัตย์",
       "votes": 7291,
@@ -151,7 +151,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 9,
       "name": "นายวุฒิบูรณ์ วิ่งวน",
       "party": "กล้าธรรม",
       "votes": 1160,

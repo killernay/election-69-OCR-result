@@ -39,7 +39,7 @@
       "number": 1,
       "name": "นายสุไพรพล เพ็ญแข",
       "party": "เพื่อไทย",
-      "votes": 7451
+      "votes": 7551
     },
     {
       "number": 13,
@@ -104,9 +104,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 33.json",
   "_validation": {
-    "vote_sum": 94416,
+    "vote_sum": 94516,
     "good_votes": 94416,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.11
   },
   "province_code": "10",
   "province_name_normalized": "กรุงเทพมหานคร",
@@ -148,7 +148,7 @@
       "number": 1,
       "name": "นายสุไพรพล เพ็ญแข",
       "party": "เพื่อไทย",
-      "votes": 7451,
+      "votes": 7551,
       "candidate_uuid": "b37fc331-1286-4a6a-ab7e-f2417c1036a5",
       "is_active": true
     },

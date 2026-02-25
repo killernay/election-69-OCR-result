@@ -48,25 +48,25 @@
       "votes": 4932
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายปรีชา ฉอสุวรรณชาติ",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2686
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายมาณัษฐ์ จตุระบุล",
       "party": "เศรษฐกิจ",
       "votes": 1683
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "สิบตำรวจโท สมชาย ศรีเย็น",
       "party": "ทางเลือกใหม่",
       "votes": 1006
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายธนัท สุขเกษม",
       "party": "พลวัต",
       "votes": 472
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายปรีชา ฉอสุวรรณชาติ",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2686,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายมาณัษฐ์ จตุระบุล",
       "party": "เศรษฐกิจ",
       "votes": 1683,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "สิบตำรวจโท สมชาย ศรีเย็น",
       "party": "ทางเลือกใหม่",
       "votes": 1006,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายธนัท สุขเกษม",
       "party": "พลวัต",
       "votes": 472,

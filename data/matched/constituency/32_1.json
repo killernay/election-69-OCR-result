@@ -24,13 +24,13 @@
       "votes": 46167
     },
     {
-      "number": 8,
+      "number": 1,
       "name": "นายเบญจมินทร์ ปันสน",
       "party": "ประชาชน",
       "votes": 23104
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอนันต์ ปาลีคุปต์",
       "party": "เพื่อไทย",
       "votes": 9423
@@ -93,7 +93,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 1,
       "name": "นายเบญจมินทร์ ปันสน",
       "party": "ประชาชน",
       "votes": 23104,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอนันต์ ปาลีคุปต์",
       "party": "เพื่อไทย",
       "votes": 9423,

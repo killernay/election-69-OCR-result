@@ -1,0 +1,139 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121519,
+    "1.2": 74514,
+    "2.1": 126152,
+    "2.2": 74514,
+    "2.3": 51638,
+    "3.1": 69042,
+    "3.2": 0,
+    "3.3": 5472,
+    "3.4": 74514,
+    "4.1": 69445,
+    "4.2": 3181,
+    "4.3": 1888
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชนกันต์ ทิมาตฤกะ",
+      "party": "ภูมิใจไทย",
+      "votes": 51536
+    },
+    {
+      "number": 2,
+      "name": "นายวรพจน์ วิบูลย์วิริยะสกุล",
+      "party": "ประชาชน",
+      "votes": 11667
+    },
+    {
+      "number": 5,
+      "name": "นายพรรษศรณ์ สาครเสถียร",
+      "party": "เพื่อไทย",
+      "votes": 3699
+    },
+    {
+      "number": 1,
+      "name": "นายธีรวุฒิ ทับทิมหิน",
+      "party": "ประชาธิปัตย์",
+      "votes": 846
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษฎา ชูตาลัด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 683
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาย สุเรรัมย์",
+      "party": "เศรษฐกิจ",
+      "votes": 678
+    },
+    {
+      "number": 6,
+      "name": "นางสาวรุ่งฤดี จะโชนรัมย์",
+      "party": "กล้าธรรม",
+      "votes": 336
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 4.json",
+  "_validation": {
+    "vote_sum": 69445,
+    "good_votes": 69445,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 121519,
+    "voters_came": 74514,
+    "ballots_received": 126152,
+    "ballots_used": 74514,
+    "good_votes": 69445,
+    "invalid_votes": 3181,
+    "no_votes": 1888
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชนกันต์ ทิมาตฤกะ",
+      "party": "ภูมิใจไทย",
+      "votes": 51536,
+      "candidate_uuid": "d11396cc-2143-4ded-934b-2be541d71387",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวรพจน์ วิบูลย์วิริยะสกุล",
+      "party": "ประชาชน",
+      "votes": 11667,
+      "candidate_uuid": "7932a9ba-5a90-4291-89d0-18dc3b7dee3f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพรรษศรณ์ สาครเสถียร",
+      "party": "เพื่อไทย",
+      "votes": 3699,
+      "candidate_uuid": "5ce3d4a0-2d45-4741-92db-ce2be0a28322",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธีรวุฒิ ทับทิมหิน",
+      "party": "ประชาธิปัตย์",
+      "votes": 846,
+      "candidate_uuid": "edd2fd08-09ad-4778-92bc-35d09c680ac3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษฎา ชูตาลัด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 683,
+      "candidate_uuid": "e1878563-25b5-4b63-b663-7bcb3b73d1fc",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาย สุเรรัมย์",
+      "party": "เศรษฐกิจ",
+      "votes": 678,
+      "candidate_uuid": "39c2ebee-51e2-4c8e-92b6-0e99ad09ba18",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวรุ่งฤดี จะโชนรัมย์",
+      "party": "กล้าธรรม",
+      "votes": 336,
+      "candidate_uuid": "d1cbf2c0-f332-4b2e-9c7b-43c5553c509d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

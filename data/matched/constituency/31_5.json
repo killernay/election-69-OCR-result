@@ -1,0 +1,167 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131438,
+    "1.2": 82315,
+    "2.1": 133779,
+    "2.2": 82315,
+    "2.3": 51464,
+    "3.1": 76546,
+    "3.2": 5,
+    "3.3": 5764,
+    "3.4": 82315,
+    "4.1": 76650,
+    "4.2": 3044,
+    "4.3": 2621
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายโสภณ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 53732
+    },
+    {
+      "number": 4,
+      "name": "นายธนากร สัมมาสาโก",
+      "party": "ประชาชน",
+      "votes": 10694
+    },
+    {
+      "number": 3,
+      "name": "นายใหม่ สุขะเดชะ",
+      "party": "เพื่อไทย",
+      "votes": 7914
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนก รักพินิจ",
+      "party": "เศรษฐกิจ",
+      "votes": 1238
+    },
+    {
+      "number": 1,
+      "name": "นางพชรพรรณ ลิ้มโฆษิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 1052
+    },
+    {
+      "number": 5,
+      "name": "นายสุรศักดิ์ เลี้ยงผ่องพันธุ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 807
+    },
+    {
+      "number": 2,
+      "name": "นางประนอม อุทัยแสน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 714
+    },
+    {
+      "number": 7,
+      "name": "นายณภัทร์ษธร กล้วยประโคน",
+      "party": "ประชากรไทย",
+      "votes": 305
+    },
+    {
+      "number": 8,
+      "name": "นายสมคิด สินไธสง",
+      "party": "กล้าธรรม",
+      "votes": 194
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 5.json",
+  "_validation": {
+    "vote_sum": 76650,
+    "good_votes": 76650,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 131438,
+    "voters_came": 82315,
+    "ballots_received": 133779,
+    "ballots_used": 82315,
+    "good_votes": 76650,
+    "invalid_votes": 3044,
+    "no_votes": 2621
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายโสภณ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 53732,
+      "candidate_uuid": "3e308544-9997-4ac6-a7dc-16052a20c483",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนากร สัมมาสาโก",
+      "party": "ประชาชน",
+      "votes": 10694,
+      "candidate_uuid": "51c2967e-6ce6-4ff1-a602-7dcfa651c167",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายใหม่ สุขะเดชะ",
+      "party": "เพื่อไทย",
+      "votes": 7914,
+      "candidate_uuid": "d1a92ce2-36f5-43eb-bd4c-366a327b00ef",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนก รักพินิจ",
+      "party": "เศรษฐกิจ",
+      "votes": 1238,
+      "candidate_uuid": "e9cb3584-8a93-4b32-9306-ae53e576a1d4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางพชรพรรณ ลิ้มโฆษิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 1052,
+      "candidate_uuid": "94d63c6a-4d43-4c94-88c2-ea7ceaf8e9c8",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุรศักดิ์ เลี้ยงผ่องพันธุ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 807,
+      "candidate_uuid": "2d98224a-4ed5-4ca8-855c-62e9585be1c6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางประนอม อุทัยแสน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 714,
+      "candidate_uuid": "78653114-fa86-4339-9b0a-634d5cd2eec0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายณภัทร์ษธร กล้วยประโคน",
+      "party": "ประชากรไทย",
+      "votes": 305,
+      "candidate_uuid": "f9eb6d80-4e8a-4a9d-ae18-28b15784fb28",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสมคิด สินไธสง",
+      "party": "กล้าธรรม",
+      "votes": 194,
+      "candidate_uuid": "b6875d9f-9f3c-4120-a0fc-388147ff344d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -42,13 +42,13 @@
       "votes": 3839
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นางสาวธนาภา อัครมะหะเวทน์",
       "party": "ประชากรไทย",
       "votes": 1108
     },
     {
-      "number": 4,
+      "number": 9,
       "name": "นายกร สิงห์ธีร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 996
@@ -102,7 +102,7 @@
       "votes": 296
     },
     {
-      "number": 8,
+      "number": 4,
       "name": "นายธีระเดช นาซีก",
       "party": "กล้าธรรม",
       "votes": 203
@@ -117,7 +117,7 @@
       "number": 3,
       "name": "นายวรัญชัย โชคชนะ",
       "party": "ประชาธิปไตยใหม่",
-      "votes": 180
+      "votes": 181
     },
     {
       "number": 18,
@@ -128,7 +128,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 11.json",
   "_validation": {
-    "vote_sum": 94993,
+    "vote_sum": 94994,
     "good_votes": 94993,
     "sum_diff_pct": 0.0
   },
@@ -177,7 +177,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นางสาวธนาภา อัครมะหะเวทน์",
       "party": "ประชากรไทย",
       "votes": 1108,
@@ -185,7 +185,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 9,
       "name": "นายกร สิงห์ธีร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 996,
@@ -257,7 +257,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 4,
       "name": "นายธีระเดช นาซีก",
       "party": "กล้าธรรม",
       "votes": 203,
@@ -276,7 +276,7 @@
       "number": 3,
       "name": "นายวรัญชัย โชคชนะ",
       "party": "ประชาธิปไตยใหม่",
-      "votes": 180,
+      "votes": 181,
       "candidate_uuid": "c409fa0e-2f02-4645-8e2a-0ab555642c2b",
       "is_active": true
     },

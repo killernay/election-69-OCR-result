@@ -14,7 +14,7 @@
     "3.4": 118298,
     "4.1": 107999,
     "4.2": 6984,
-    "4.3": 3315
+    "4.3": 3313
   },
   "results": [
     {
@@ -318,7 +318,7 @@
     "ballots_used": 118298,
     "good_votes": 107999,
     "invalid_votes": 6984,
-    "no_votes": 3315
+    "no_votes": 3313
   },
   "matched_parties": [
     {

@@ -18,55 +18,55 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายประสิทธิ์ โนทะ",
       "party": "กล้าธรรม",
       "votes": 38228
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นางสาวปาริชาติ ยาน้อย",
       "party": "ประชาชน",
       "votes": 28888
     },
     {
-      "number": 5,
+      "number": 3,
       "name": "นายชลน่าน ศรีแก้ว",
       "party": "เพื่อไทย",
       "votes": 14002
     },
     {
-      "number": 6,
+      "number": 4,
       "name": "นายชัยวุฒิ คูอาริยะกุล",
       "party": "พลังประชารัฐ",
       "votes": 2332
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายนฤบดินทร์ เทพสิทธิ์",
       "party": "ภูมิใจไทย",
       "votes": 1982
     },
     {
-      "number": 4,
+      "number": 6,
       "name": "นางจรวยพร อินสาค",
       "party": "ประชาธิปัตย์",
       "votes": 1784
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "พันโทธีร์วัฒน์ เตชะบุญ",
       "party": "เศรษฐกิจ",
       "votes": 1650
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายสิริไพศาล แสงประจักษ์",
       "party": "ปวงชนไทย",
       "votes": 953
     },
     {
-      "number": 7,
+      "number": 9,
       "name": "นายอดิเรก กองแก้ว",
       "party": "รวมไทยสร้างชาติ",
       "votes": 667
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายประสิทธิ์ โนทะ",
       "party": "กล้าธรรม",
       "votes": 38228,
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นางสาวปาริชาติ ยาน้อย",
       "party": "ประชาชน",
       "votes": 28888,
@@ -107,7 +107,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 3,
       "name": "นายชลน่าน ศรีแก้ว",
       "party": "เพื่อไทย",
       "votes": 14002,
@@ -115,7 +115,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 4,
       "name": "นายชัยวุฒิ คูอาริยะกุล",
       "party": "พลังประชารัฐ",
       "votes": 2332,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายนฤบดินทร์ เทพสิทธิ์",
       "party": "ภูมิใจไทย",
       "votes": 1982,
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 6,
       "name": "นางจรวยพร อินสาค",
       "party": "ประชาธิปัตย์",
       "votes": 1784,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "พันโทธีร์วัฒน์ เตชะบุญ",
       "party": "เศรษฐกิจ",
       "votes": 1650,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 8,
       "name": "นายสิริไพศาล แสงประจักษ์",
       "party": "ปวงชนไทย",
       "votes": 953,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 9,
       "name": "นายอดิเรก กองแก้ว",
       "party": "รวมไทยสร้างชาติ",
       "votes": 667,

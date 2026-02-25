@@ -4,7 +4,7 @@
   "type": "constituency",
   "summary_by_section": {
     "1.1": 121937,
-    "1.2": 93876,
+    "1.2": 93476,
     "2.1": 121760,
     "2.2": 93876,
     "2.3": 27884,
@@ -76,7 +76,7 @@
   "province_name_normalized": "สุราษฎร์ธานี",
   "summary": {
     "eligible_voters": 121937,
-    "voters_came": 93876,
+    "voters_came": 93476,
     "ballots_received": 121760,
     "ballots_used": 93876,
     "good_votes": 88782,

@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายวุฒากร นุตยกุล",
       "party": "ประชาชน",
       "votes": 42123
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวกัญญาพร แก้วทิพย์",
       "party": "ภูมิใจไทย",
       "votes": 19861
@@ -60,13 +60,13 @@
       "votes": 2034
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายธนบดี อินทวีโร",
       "party": "เสรีรวมไทย",
       "votes": 1184
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายสุรพันธ์ ไวยากรณ์",
       "party": "พลวัต",
       "votes": 791
@@ -103,7 +103,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายวุฒากร นุตยกุล",
       "party": "ประชาชน",
       "votes": 42123,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวกัญญาพร แก้วทิพย์",
       "party": "ภูมิใจไทย",
       "votes": 19861,
@@ -159,7 +159,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายธนบดี อินทวีโร",
       "party": "เสรีรวมไทย",
       "votes": 1184,
@@ -167,7 +167,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 9,
       "name": "นายสุรพันธ์ ไวยากรณ์",
       "party": "พลวัต",
       "votes": 791,

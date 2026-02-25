@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอับดุลอายี สาแม็ง",
       "party": "ประชาชาติ",
       "votes": 34910
@@ -54,7 +54,7 @@
       "votes": 3443
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายซอและ มะสอลา",
       "party": "เพื่อไทย",
       "votes": 1369
@@ -79,7 +79,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอับดุลอายี สาแม็ง",
       "party": "ประชาชาติ",
       "votes": 34910,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายซอและ มะสอลา",
       "party": "เพื่อไทย",
       "votes": 1369,

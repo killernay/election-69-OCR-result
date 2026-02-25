@@ -65,7 +65,7 @@
     {
       "number": 10,
       "party": "ทางเลือกใหม่",
-      "votes": 570
+      "votes": 670
     },
     {
       "number": 11,
@@ -114,12 +114,12 @@
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 21
     },
     {
       "number": 21,
-      "party": "ไทรวมพลัง",
+      "party": "ไทยรวมพลัง",
       "votes": 33
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "number": 24,
-      "party": "วิชชั่นใหม่",
+      "party": "วิชั่นใหม่",
       "votes": 23
     },
     {
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/24. นนทบุรี เขต 6.json",
   "_validation": {
-    "vote_sum": 103366,
+    "vote_sum": 103466,
     "good_votes": 103361,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.1
   },
   "province_code": "12",
   "province_name_normalized": "นนทบุรี",
@@ -316,7 +316,7 @@
     "voters_came": 110021,
     "ballots_received": 147586,
     "ballots_used": 110021,
-    "good_votes": 103366,
+    "good_votes": 103361,
     "invalid_votes": 2576,
     "no_votes": 4084
   },
@@ -387,7 +387,7 @@
     {
       "number": 10,
       "party": "ทางเลือกใหม่",
-      "votes": 570,
+      "votes": 670,
       "party_uuid": "bdd306a2-80c7-4d7b-a7ff-8dc1ec9fcc76",
       "party_code": "10"
     },
@@ -456,7 +456,7 @@
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 21,
       "party_uuid": "e89089ab-9e07-4933-ab7c-28f2e65bed81",
       "party_code": "20"

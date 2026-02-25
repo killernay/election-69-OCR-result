@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอนุชา นาคาศัย",
       "party": "เพื่อไทย",
       "votes": 36058
@@ -42,7 +42,7 @@
       "votes": 6221
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายปริญญา สุโพธิ์",
       "party": "กล้าธรรม",
       "votes": 1284
@@ -73,7 +73,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอนุชา นาคาศัย",
       "party": "เพื่อไทย",
       "votes": 36058,
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายปริญญา สุโพธิ์",
       "party": "กล้าธรรม",
       "votes": 1284,

@@ -5,7 +5,7 @@
   "summary_by_section": {
     "1.1": 111970,
     "1.2": 81871,
-    "2.1": 111020,
+    "2.1": 110020,
     "2.2": 81871,
     "2.3": 28149,
     "3.1": 78986,
@@ -245,7 +245,7 @@
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 36220
+      "votes": 36221
     },
     {
       "number": 47,
@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/62. สมุทรสาคร เขต 3.json",
   "_validation": {
-    "vote_sum": 76686,
+    "vote_sum": 76687,
     "good_votes": 76686,
     "sum_diff_pct": 0.0
   },
@@ -639,7 +639,7 @@
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 36220,
+      "votes": 36221,
       "party_uuid": "1116011c-1ef3-4cca-a186-c1b9f7984ede",
       "party_code": "46"
     },

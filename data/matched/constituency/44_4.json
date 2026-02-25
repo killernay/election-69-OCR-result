@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายวิเชียร จงชูวณิชย์",
       "party": "ภูมิใจไทย",
       "votes": 30843
@@ -30,7 +30,7 @@
       "votes": 21773
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายสรรพภัญญู ศิริไปล์",
       "party": "เพื่อไทย",
       "votes": 15459
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายวิเชียร จงชูวณิชย์",
       "party": "ภูมิใจไทย",
       "votes": 30843,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายสรรพภัญญู ศิริไปล์",
       "party": "เพื่อไทย",
       "votes": 15459,

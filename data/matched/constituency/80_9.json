@@ -24,7 +24,7 @@
       "votes": 46473
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชาญวัฒนา อิสระวัฒนา",
       "party": "ประชาธิปัตย์",
       "votes": 36536
@@ -42,7 +42,7 @@
       "votes": 1530
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวนิรมล เพ็งจันทร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1060
@@ -62,7 +62,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 9.json",
   "_validation": {
-    "vote_sum": 96071,
+    "vote_sum": 91071,
     "good_votes": 96071,
     "sum_diff_pct": 5.2
   },
@@ -87,7 +87,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชาญวัฒนา อิสระวัฒนา",
       "party": "ประชาธิปัตย์",
       "votes": 36536,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวนิรมล เพ็งจันทร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1060,

@@ -42,7 +42,7 @@
       "votes": 4320
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายจอน องกระโทก",
       "party": "เศรษฐกิจ",
       "votes": 1150
@@ -60,13 +60,13 @@
       "votes": 570
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายกล้ารบ สิงหกมลศึก",
       "party": "ไทยภักดี",
       "votes": 258
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นางอรุณวรรณ ชาญสัมพันธ์",
       "party": "ไทยก้าวใหม่",
       "votes": 151
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายจอน องกระโทก",
       "party": "เศรษฐกิจ",
       "votes": 1150,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายกล้ารบ สิงหกมลศึก",
       "party": "ไทยภักดี",
       "votes": 258,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นางอรุณวรรณ ชาญสัมพันธ์",
       "party": "ไทยก้าวใหม่",
       "votes": 151,

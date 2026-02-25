@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 4,
       "name": "นางพัชราวรรณ ภิญโญ",
       "party": "เพื่อไทย",
       "votes": 27973
     },
     {
-      "number": 4,
+      "number": null,
       "name": "นายโกศล ปัทมะ",
       "party": "ภูมิใจไทย",
       "votes": 19113
@@ -109,7 +109,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": 4,
       "name": "นางพัชราวรรณ ภิญโญ",
       "party": "เพื่อไทย",
       "votes": 27973,
@@ -117,7 +117,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": null,
       "name": "นายโกศล ปัทมะ",
       "party": "ภูมิใจไทย",
       "votes": 19113,

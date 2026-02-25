@@ -24,13 +24,13 @@
       "votes": 38717
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชานน อันไชยะ",
       "party": "ประชาชน",
       "votes": 34889
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายกิตติชัย เรืองสวัสดิ์",
       "party": "ภูมิใจไทย",
       "votes": 13705
@@ -81,7 +81,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชานน อันไชยะ",
       "party": "ประชาชน",
       "votes": 34889,
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายกิตติชัย เรืองสวัสดิ์",
       "party": "ภูมิใจไทย",
       "votes": 13705,

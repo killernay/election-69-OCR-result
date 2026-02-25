@@ -114,12 +114,12 @@
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 34
     },
     {
       "number": 21,
-      "party": "ไทรวมพลัง",
+      "party": "ไทยรวมพลัง",
       "votes": 41
     },
     {
@@ -456,7 +456,7 @@
     },
     {
       "number": 20,
-      "party": "ฟิวชัน",
+      "party": "ฟิวชั่น",
       "votes": 34,
       "party_uuid": "e89089ab-9e07-4933-ab7c-28f2e65bed81",
       "party_code": "20"

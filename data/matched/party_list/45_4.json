@@ -235,7 +235,7 @@
     {
       "number": 44,
       "party": "โอกาสใหม่",
-      "votes": 888
+      "votes": 882
     },
     {
       "number": 45,
@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/48. ร้อยเอ็ด เขต 4.json",
   "_validation": {
-    "vote_sum": 79297,
+    "vote_sum": 79291,
     "good_votes": 79301,
     "sum_diff_pct": 0.01
   },
@@ -316,7 +316,7 @@
     "voters_came": 83975,
     "ballots_received": 133029,
     "ballots_used": 83975,
-    "good_votes": 79297,
+    "good_votes": 79301,
     "invalid_votes": 3340,
     "no_votes": 1334
   },
@@ -625,7 +625,7 @@
     {
       "number": 44,
       "party": "โอกาสใหม่",
-      "votes": 888,
+      "votes": 882,
       "party_uuid": "2ee17641-917b-4ea0-8c19-da383e03e915",
       "party_code": "44"
     },

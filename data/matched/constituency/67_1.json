@@ -3,18 +3,18 @@
   "constituency_number": 1,
   "type": "constituency",
   "summary_by_section": {
-    "1.1": 131110,
+    "1.1": 131143,
     "1.2": 88736,
-    "2.1": 132810,
+    "2.1": 132483,
     "2.2": 88734,
     "2.3": 43749,
     "3.1": 81416,
     "3.2": 55,
     "3.3": 7263,
     "3.4": 88734,
-    "4.1": 80630,
-    "4.2": 3107,
-    "4.3": 4999
+    "4.1": 80633,
+    "4.2": 3607,
+    "4.3": 4494
   },
   "results": [
     {
@@ -27,7 +27,7 @@
       "number": 2,
       "name": "นายธนเดช หินวิเศษ",
       "party": "ประชาธิปัตย์",
-      "votes": 1704
+      "votes": 1714
     },
     {
       "number": 3,
@@ -54,28 +54,28 @@
       "votes": 659
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายกฤษณพงศ์ สอนน้อย",
       "party": "เศรษฐกิจ",
-      "votes": 1575
+      "votes": 1568
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 1.json",
   "_validation": {
-    "vote_sum": 80630,
-    "good_votes": 80630,
+    "vote_sum": 80633,
+    "good_votes": 80633,
     "sum_diff_pct": 0.0
   },
   "province_code": "67",
   "province_name_normalized": "เพชรบูรณ์",
   "summary": {
-    "eligible_voters": 131110,
+    "eligible_voters": 131143,
     "voters_came": 88736,
     "ballots_received": 132483,
     "ballots_used": 88734,
-    "good_votes": 80630,
-    "invalid_votes": 3107,
-    "no_votes": 4999
+    "good_votes": 80633,
+    "invalid_votes": 3607,
+    "no_votes": 4494
   },
   "matched_candidates": [
     {
@@ -90,7 +90,7 @@
       "number": 2,
       "name": "นายธนเดช หินวิเศษ",
       "party": "ประชาธิปัตย์",
-      "votes": 1704,
+      "votes": 1714,
       "candidate_uuid": "cf7bd653-8a24-4769-9ae7-2faf389fc423",
       "is_active": true
     },
@@ -127,10 +127,10 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายกฤษณพงศ์ สอนน้อย",
       "party": "เศรษฐกิจ",
-      "votes": 1575,
+      "votes": 1568,
       "candidate_uuid": "d90331d5-e95d-480c-92ab-58ec0ad926c8",
       "is_active": true
     }

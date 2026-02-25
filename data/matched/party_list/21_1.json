@@ -7,7 +7,7 @@
     "1.2": 91421,
     "2.1": 124138,
     "2.2": 91421,
-    "2.3": 32717,
+    "2.3": 32171,
     "3.1": 87708,
     "3.2": 0,
     "3.3": 3713,
@@ -225,7 +225,7 @@
     {
       "number": 42,
       "party": "กล้าธรรม",
-      "votes": 74
+      "votes": 64
     },
     {
       "number": 43,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/50. ระยอง เขต 1.json",
   "_validation": {
-    "vote_sum": 86337,
+    "vote_sum": 86327,
     "good_votes": 86337,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.01
   },
   "province_code": "21",
   "province_name_normalized": "ระยอง",
@@ -611,7 +611,7 @@
     {
       "number": 42,
       "party": "กล้าธรรม",
-      "votes": 74,
+      "votes": 64,
       "party_uuid": "a62aca08-91b7-4f3f-ba8f-cb9e884a3799",
       "party_code": "42"
     },

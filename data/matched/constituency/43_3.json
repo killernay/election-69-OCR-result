@@ -30,13 +30,13 @@
       "votes": 19988
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายชัยณรงค์ ชัยสุข",
       "party": "ประชาชน",
       "votes": 19381
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสถิตย์ สีสวาท",
       "party": "ประชาธิปัตย์",
       "votes": 1343
@@ -83,7 +83,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายชัยณรงค์ ชัยสุข",
       "party": "ประชาชน",
       "votes": 19381,
@@ -91,7 +91,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสถิตย์ สีสวาท",
       "party": "ประชาธิปัตย์",
       "votes": 1343,

@@ -48,13 +48,13 @@
       "votes": 1388
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นายณรงค์ องสารา",
       "party": "ไทยก้าวใหม่",
       "votes": 1020
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายสุชาติ ใบมะหาด",
       "party": "กล้าธรรม",
       "votes": 917
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นายณรงค์ องสารา",
       "party": "ไทยก้าวใหม่",
       "votes": 1020,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายสุชาติ ใบมะหาด",
       "party": "กล้าธรรม",
       "votes": 917,

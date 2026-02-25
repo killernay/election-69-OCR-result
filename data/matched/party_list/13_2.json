@@ -60,7 +60,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17463
+      "votes": 17563
     },
     {
       "number": 10,
@@ -144,22 +144,22 @@
     },
     {
       "number": 26,
-      "party": "คลองไทย",
+      "party": "ไทยภักดี",
       "votes": 75
     },
     {
       "number": 27,
-      "party": "ประชาธิปัตย์",
+      "party": "คลองไทย",
       "votes": 4638
     },
     {
       "number": 28,
-      "party": "ไทยก้าวหน้า",
+      "party": "ประชาธิปัตย์",
       "votes": 114
     },
     {
       "number": 29,
-      "party": "ไทยภักดี",
+      "party": "ไทยก้าวหน้า",
       "votes": 837
     },
     {
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/29. ปทุมธานี เขต 2.json",
   "_validation": {
-    "vote_sum": 96562,
+    "vote_sum": 96662,
     "good_votes": 96562,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.1
   },
   "province_code": "13",
   "province_name_normalized": "ปทุมธานี",
@@ -380,7 +380,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17463,
+      "votes": 17563,
       "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
       "party_code": "9"
     },
@@ -497,30 +497,30 @@
       "party_code": "25"
     },
     {
-      "number": 29,
+      "number": 26,
       "party": "ไทยภักดี",
-      "votes": 837,
+      "votes": 75,
       "party_uuid": "f9cadd57-8256-49aa-9386-0da392b19fc2",
       "party_code": "29"
     },
     {
-      "number": 26,
+      "number": 27,
       "party": "คลองไทย",
-      "votes": 75,
+      "votes": 4638,
       "party_uuid": "f95e95f3-572e-4c2f-8327-d51e9815a598",
       "party_code": "26"
     },
     {
-      "number": 27,
+      "number": 28,
       "party": "ประชาธิปัตย์",
-      "votes": 4638,
+      "votes": 114,
       "party_uuid": "d7155f6d-736d-42c0-8bc0-00ee6e1970dc",
       "party_code": "27"
     },
     {
-      "number": 28,
+      "number": 29,
       "party": "ไทยก้าวหน้า",
-      "votes": 114,
+      "votes": 837,
       "party_uuid": "3caedce0-9faa-47a0-8afc-d5f4fff86578",
       "party_code": "28"
     },

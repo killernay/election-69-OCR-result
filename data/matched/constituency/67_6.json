@@ -4,27 +4,27 @@
   "type": "constituency",
   "summary_by_section": {
     "1.1": 137973,
-    "1.2": 87405,
+    "1.2": 87505,
     "2.1": 136560,
-    "2.2": 87405,
+    "2.2": 87505,
     "2.3": 49155,
     "3.1": 81956,
     "3.2": 0,
     "3.3": 5449,
-    "3.4": 87405,
+    "3.4": 87505,
     "4.1": 81129,
     "4.2": 3705,
     "4.3": 2571
   },
   "results": [
     {
-      "number": 3,
+      "number": 4,
       "name": "นายอัคร ทองใจสด",
       "party": "ภูมิใจไทย",
       "votes": 59008
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นายอัครพงษ์ สิทธิ",
       "party": "ประชาชน",
       "votes": 14303
@@ -70,7 +70,7 @@
   "province_name_normalized": "เพชรบูรณ์",
   "summary": {
     "eligible_voters": 137973,
-    "voters_came": 87405,
+    "voters_came": 87505,
     "ballots_received": 136560,
     "ballots_used": 87505,
     "good_votes": 81129,
@@ -79,7 +79,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 4,
       "name": "นายอัคร ทองใจสด",
       "party": "ภูมิใจไทย",
       "votes": 59008,
@@ -87,7 +87,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "นายอัครพงษ์ สิทธิ",
       "party": "ประชาชน",
       "votes": 14303,

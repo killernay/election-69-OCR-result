@@ -1,0 +1,181 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130776,
+    "1.2": 79738,
+    "2.1": 130060,
+    "2.2": 79738,
+    "2.3": 50322,
+    "3.1": 73948,
+    "3.2": 24,
+    "3.3": 5766,
+    "3.4": 79738,
+    "4.1": 73608,
+    "4.2": 3020,
+    "4.3": 3110
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายศักดิ์ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 51523
+    },
+    {
+      "number": 2,
+      "name": "นายนันทภพ ทองนุ่น",
+      "party": "ประชาชน",
+      "votes": 11551
+    },
+    {
+      "number": 1,
+      "name": "นายประยูร เพ็งจันทร์",
+      "party": "เพื่อไทย",
+      "votes": 5419
+    },
+    {
+      "number": 3,
+      "name": "นายพงษ์นรินทร์ ลิ้มโฆษิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 1239
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจุฑามาศ รักพินิจ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211
+    },
+    {
+      "number": 10,
+      "name": "นายชัยชนะ กิ่งหว้ากลาง",
+      "party": "เศรษฐกิจ",
+      "votes": 851
+    },
+    {
+      "number": 8,
+      "name": "นายสนม อุ่นสำโรง",
+      "party": "ประชากรไทย",
+      "votes": 682
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจโทสมพงษ์ พันธุ์ศรี",
+      "party": "ปวงชนไทย",
+      "votes": 462
+    },
+    {
+      "number": 7,
+      "name": "นายภูวดล ศรีหามาตย์",
+      "party": "กล้าธรรม",
+      "votes": 433
+    },
+    {
+      "number": 9,
+      "name": "นายอภิชัย สิริสุข",
+      "party": "ไทยสร้างไทย",
+      "votes": 237
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 6.json",
+  "_validation": {
+    "vote_sum": 73608,
+    "good_votes": 73608,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 130776,
+    "voters_came": 79738,
+    "ballots_received": 130060,
+    "ballots_used": 79738,
+    "good_votes": 73608,
+    "invalid_votes": 3020,
+    "no_votes": 3110
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายศักดิ์ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 51523,
+      "candidate_uuid": "3970a399-9d61-4c03-bc44-059f02a4b79c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนันทภพ ทองนุ่น",
+      "party": "ประชาชน",
+      "votes": 11551,
+      "candidate_uuid": "b3c322dc-f09c-45c9-86c0-b83774111a30",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายประยูร เพ็งจันทร์",
+      "party": "เพื่อไทย",
+      "votes": 5419,
+      "candidate_uuid": "38643ed2-2ce0-4472-982b-528c749b4eae",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพงษ์นรินทร์ ลิ้มโฆษิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 1239,
+      "candidate_uuid": "b7c23931-fca5-4bb3-8428-813bec2dcdce",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจุฑามาศ รักพินิจ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211,
+      "candidate_uuid": "956d9f46-a3ba-4528-a6d3-fa84ce05e297",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชัยชนะ กิ่งหว้ากลาง",
+      "party": "เศรษฐกิจ",
+      "votes": 851,
+      "candidate_uuid": "c0a888e7-53a9-4828-88d6-f11144f94036",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสนม อุ่นสำโรง",
+      "party": "ประชากรไทย",
+      "votes": 682,
+      "candidate_uuid": "8abb1af4-88a6-46fd-a28b-095dd043fcfd",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจโทสมพงษ์ พันธุ์ศรี",
+      "party": "ปวงชนไทย",
+      "votes": 462,
+      "candidate_uuid": "ecf11120-6eda-4d00-a9a6-b6c5cc266dc8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายภูวดล ศรีหามาตย์",
+      "party": "กล้าธรรม",
+      "votes": 433,
+      "candidate_uuid": "d37fea13-3623-4ac3-bb19-5823d0aae30c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอภิชัย สิริสุข",
+      "party": "ไทยสร้างไทย",
+      "votes": 237,
+      "candidate_uuid": "e83b3e86-9fd7-47e6-81d0-c7b78c658c32",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายการุณย์ คูเจริญชัยกุล",
       "party": "กล้าธรรม",
       "votes": 33492
@@ -42,7 +42,7 @@
       "votes": 14011
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอดุลย์ บุญใส",
       "party": "ภูมิใจไทย",
       "votes": 3230
@@ -60,7 +60,7 @@
       "votes": 1015
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายพิสัณห์ อุปนันท์",
       "party": "เศรษฐกิจ",
       "votes": 901
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 5,
+      "number": 1,
       "name": "นายการุณย์ คูเจริญชัยกุล",
       "party": "กล้าธรรม",
       "votes": 33492,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 8,
       "name": "นายอดุลย์ บุญใส",
       "party": "ภูมิใจไทย",
       "votes": 3230,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 5,
       "name": "นายพิสัณห์ อุปนันท์",
       "party": "เศรษฐกิจ",
       "votes": 901,

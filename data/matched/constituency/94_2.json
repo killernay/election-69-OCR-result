@@ -24,13 +24,13 @@
       "votes": 38541
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอับดุลบาซิม อาบู",
       "party": "กล้าธรรม",
       "votes": 14082
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายอรุณ เบ็ญจลักษณ์",
       "party": "ประชาชาติ",
       "votes": 13920
@@ -81,7 +81,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอับดุลบาซิม อาบู",
       "party": "กล้าธรรม",
       "votes": 14082,
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายอรุณ เบ็ญจลักษณ์",
       "party": "ประชาชาติ",
       "votes": 13920,

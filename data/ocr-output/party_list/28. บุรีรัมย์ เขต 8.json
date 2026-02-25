@@ -1,0 +1,312 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 8,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 126957,
+    "1.2": 85266,
+    "2.1": 124360,
+    "2.2": 85266,
+    "2.3": 39094,
+    "3.1": 79923,
+    "3.2": 21,
+    "3.3": 5322,
+    "3.4": 85266,
+    "4.1": 78587,
+    "4.2": 4384,
+    "4.3": 2295
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 465
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 740
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 202
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 151
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 3011
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 844
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 328
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 661
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 7277
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 279
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2896
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 236
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 354
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 49
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 140
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 143
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 18
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 49
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1451
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 76
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 266
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 109
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 263
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 126
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 87
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 264
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 334
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 225
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 39318
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 199
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 37
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 97
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 81
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 276
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 61
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 16425
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 184
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 107
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 41
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/28. บุรีรัมย์ เขต 8 (บช).pdf",
+  "_validation": {
+    "vote_sum": 78587,
+    "good_votes": 78587,
+    "sum_diff_pct": 0.0
+  }
+}

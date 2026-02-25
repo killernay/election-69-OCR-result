@@ -60,7 +60,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17413
+      "votes": 17513
     },
     {
       "number": 10,
@@ -119,7 +119,7 @@
     },
     {
       "number": 21,
-      "party": "ไทรวมพลัง",
+      "party": "ไทยรวมพลัง",
       "votes": 63
     },
     {
@@ -179,93 +179,93 @@
     },
     {
       "number": 33,
+      "party": "N/A",
+      "votes": 0
+    },
+    {
+      "number": 34,
       "party": "ประชาชาติ",
       "votes": 632
     },
     {
-      "number": 34,
+      "number": 35,
       "party": "สร้างอนาคตไทย",
       "votes": 214
     },
     {
-      "number": 35,
+      "number": 36,
       "party": "รักชาติ",
       "votes": 206
     },
     {
-      "number": 36,
+      "number": 37,
       "party": "ไทยพร้อม",
       "votes": 154
     },
     {
-      "number": 37,
+      "number": 38,
       "party": "ภูมิใจไทย",
       "votes": 14684
     },
     {
-      "number": 38,
+      "number": 39,
       "party": "พลังธรรมใหม่",
       "votes": 237
     },
     {
-      "number": 39,
+      "number": 40,
       "party": "กรีน",
       "votes": 98
     },
     {
-      "number": 40,
+      "number": 41,
       "party": "ไทยธรรม",
       "votes": 411
     },
     {
-      "number": 41,
+      "number": 42,
       "party": "แผ่นดินธรรม",
       "votes": 52
     },
     {
-      "number": 42,
+      "number": 43,
       "party": "กล้าธรรม",
       "votes": 4950
     },
     {
-      "number": 43,
+      "number": 44,
       "party": "พลังประชารัฐ",
       "votes": 323
     },
     {
-      "number": 44,
+      "number": 45,
       "party": "โอกาสใหม่",
       "votes": 101
     },
     {
-      "number": 45,
+      "number": 46,
       "party": "เป็นธรรม",
       "votes": 207
     },
     {
-      "number": 46,
+      "number": 47,
       "party": "ประชาชน",
       "votes": 32949
     },
     {
-      "number": 47,
+      "number": 48,
       "party": "ประชาไทย",
       "votes": 155
     },
     {
-      "number": 48,
+      "number": 49,
       "party": "ไทยสร้างไทย",
       "votes": 412
     },
     {
-      "number": 49,
+      "number": 50,
       "party": "ไทยก้าวใหม่",
       "votes": 298
-    },
-    {
-      "number": 50,
-      "party": "ประชาอาสาชาติ",
-      "votes": 7
     },
     {
       "number": 51,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/8. ฉะเชิงเทรา เขต 2.json",
   "_validation": {
-    "vote_sum": 107806,
+    "vote_sum": 107899,
     "good_votes": 107806,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.09
   },
   "province_code": "24",
   "province_name_normalized": "ฉะเชิงเทรา",
@@ -380,7 +380,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17413,
+      "votes": 17513,
       "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
       "party_code": "9"
     },
@@ -462,13 +462,6 @@
       "party_code": "20"
     },
     {
-      "number": 21,
-      "party": "ไทรวมพลัง",
-      "votes": 63,
-      "party_uuid": "e3ad415e-cb0c-4922-adb3-4624e857d801",
-      "party_code": "21"
-    },
-    {
       "number": 22,
       "party": "ก้าวอิสระ",
       "votes": 43,
@@ -546,130 +539,123 @@
       "party_code": "32"
     },
     {
-      "number": 33,
+      "number": 34,
       "party": "ประชาชาติ",
       "votes": 632,
       "party_uuid": "7f4755ca-ea3a-4023-869d-9cabba328db0",
       "party_code": "33"
     },
     {
-      "number": 34,
+      "number": 35,
       "party": "สร้างอนาคตไทย",
       "votes": 214,
       "party_uuid": "f37e9d3e-7bd9-4c83-a960-a6a05547c5b4",
       "party_code": "34"
     },
     {
-      "number": 35,
+      "number": 36,
       "party": "รักชาติ",
       "votes": 206,
       "party_uuid": "54706125-9661-467d-a8af-78994d14b116",
       "party_code": "35"
     },
     {
-      "number": 36,
+      "number": 37,
       "party": "ไทยพร้อม",
       "votes": 154,
       "party_uuid": "54c9efd2-2cd9-487a-91f7-1251aae30c2d",
       "party_code": "36"
     },
     {
-      "number": 37,
+      "number": 38,
       "party": "ภูมิใจไทย",
       "votes": 14684,
       "party_uuid": "013c219e-e197-416d-84ea-00ba9c35465e",
       "party_code": "37"
     },
     {
-      "number": 38,
+      "number": 39,
       "party": "พลังธรรมใหม่",
       "votes": 237,
       "party_uuid": "2b1669bf-b61b-40b2-96a4-b235fa1e1501",
       "party_code": "38"
     },
     {
-      "number": 39,
+      "number": 40,
       "party": "กรีน",
       "votes": 98,
       "party_uuid": "eae55266-b74d-4322-869b-c3e5aa00701f",
       "party_code": "39"
     },
     {
-      "number": 40,
+      "number": 41,
       "party": "ไทยธรรม",
       "votes": 411,
       "party_uuid": "cb222672-cb24-4115-8454-75d3a2e14c91",
       "party_code": "40"
     },
     {
-      "number": 41,
+      "number": 42,
       "party": "แผ่นดินธรรม",
       "votes": 52,
       "party_uuid": "22076b92-676c-49f4-aa1c-377cc1e91e71",
       "party_code": "41"
     },
     {
-      "number": 42,
+      "number": 43,
       "party": "กล้าธรรม",
       "votes": 4950,
       "party_uuid": "a62aca08-91b7-4f3f-ba8f-cb9e884a3799",
       "party_code": "42"
     },
     {
-      "number": 43,
+      "number": 44,
       "party": "พลังประชารัฐ",
       "votes": 323,
       "party_uuid": "03347cbc-6089-474c-a3f6-484ae981c9a6",
       "party_code": "43"
     },
     {
-      "number": 44,
+      "number": 45,
       "party": "โอกาสใหม่",
       "votes": 101,
       "party_uuid": "2ee17641-917b-4ea0-8c19-da383e03e915",
       "party_code": "44"
     },
     {
-      "number": 45,
+      "number": 46,
       "party": "เป็นธรรม",
       "votes": 207,
       "party_uuid": "a54ae018-5399-423a-8a14-4d5c849a79a0",
       "party_code": "45"
     },
     {
-      "number": 46,
+      "number": 47,
       "party": "ประชาชน",
       "votes": 32949,
       "party_uuid": "1116011c-1ef3-4cca-a186-c1b9f7984ede",
       "party_code": "46"
     },
     {
-      "number": 47,
+      "number": 48,
       "party": "ประชาไทย",
       "votes": 155,
       "party_uuid": "a2917c34-67f8-4311-813f-3138fd2d9af0",
       "party_code": "47"
     },
     {
-      "number": 48,
+      "number": 49,
       "party": "ไทยสร้างไทย",
       "votes": 412,
       "party_uuid": "cb1b6cf2-41fa-49b1-a060-01acf13edc81",
       "party_code": "48"
     },
     {
-      "number": 49,
+      "number": 50,
       "party": "ไทยก้าวใหม่",
       "votes": 298,
       "party_uuid": "965b4b93-c01e-4a2b-a987-577f2b99ebb4",
       "party_code": "49"
-    },
-    {
-      "number": 50,
-      "party": "ประชาอาสาชาติ",
-      "votes": 7,
-      "party_uuid": "e465555e-0460-4f1b-8354-402c827008f1",
-      "party_code": "50"
     },
     {
       "number": 51,
@@ -719,7 +705,22 @@
       "votes": 95,
       "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
       "party_code": "57"
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 63,
+      "party_uuid": "e3ad415e-cb0c-4922-adb3-4624e857d801",
+      "party_code": "21"
     }
   ],
-  "unmatched_parties": []
+  "unmatched_parties": [
+    {
+      "number": 33,
+      "party": "N/A",
+      "votes": 0,
+      "party_uuid": null,
+      "party_code": null
+    }
+  ]
 }

@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายศิริโรจน์ ธนิกกุล",
       "party": "ประชาชน",
       "votes": 30787
@@ -36,7 +36,7 @@
       "votes": 7342
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายพลภวัฒน์ ชำนาญวาด",
       "party": "เพื่อไทย",
       "votes": 6123
@@ -73,7 +73,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายศิริโรจน์ ธนิกกุล",
       "party": "ประชาชน",
       "votes": 30787,
@@ -97,7 +97,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายพลภวัฒน์ ชำนาญวาด",
       "party": "เพื่อไทย",
       "votes": 6123,

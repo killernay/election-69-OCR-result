@@ -1,0 +1,167 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121304,
+    "1.2": 74757,
+    "2.1": 122150,
+    "2.2": 74757,
+    "2.3": 47393,
+    "3.1": 68992,
+    "3.2": 15,
+    "3.3": 5750,
+    "3.4": 74757,
+    "4.1": 69176,
+    "4.2": 3075,
+    "4.3": 2506
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายจักรกฤษณ์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 52091
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐพงศ์ แสนโคตร",
+      "party": "ประชาชน",
+      "votes": 9229
+    },
+    {
+      "number": 3,
+      "name": "นายจำรัส เวียงสงค์",
+      "party": "เพื่อไทย",
+      "votes": 4221
+    },
+    {
+      "number": 3,
+      "name": "นายภูมิสิทธิ์ มาประจง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1489
+    },
+    {
+      "number": 6,
+      "name": "พันเอกปรมะ เรื่องสูงเนิน",
+      "party": "เศรษฐกิจ",
+      "votes": 852
+    },
+    {
+      "number": 5,
+      "name": "นายชูชัย พลวัน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 485
+    },
+    {
+      "number": 8,
+      "name": "นายวันทา สมร่าง",
+      "party": "ประชากรไทย",
+      "votes": 469
+    },
+    {
+      "number": 4,
+      "name": "นางณัฏฐนันท์ ถาวรีย์สีแดด",
+      "party": "ปวงชนไทย",
+      "votes": 226
+    },
+    {
+      "number": 9,
+      "name": "นายอิทธิศักดิ์ ปาทาน",
+      "party": "กล้าธรรม",
+      "votes": 114
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 10.json",
+  "_validation": {
+    "vote_sum": 69176,
+    "good_votes": 69176,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 121304,
+    "voters_came": 74757,
+    "ballots_received": 122150,
+    "ballots_used": 74757,
+    "good_votes": 69176,
+    "invalid_votes": 3075,
+    "no_votes": 2506
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายจักรกฤษณ์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 52091,
+      "candidate_uuid": "5e5b49c6-f126-4b9e-976d-0b75cad25bd9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐพงศ์ แสนโคตร",
+      "party": "ประชาชน",
+      "votes": 9229,
+      "candidate_uuid": "ec9c336a-66ac-4abd-81ac-01b3017cd45b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจำรัส เวียงสงค์",
+      "party": "เพื่อไทย",
+      "votes": 4221,
+      "candidate_uuid": "6ba3f595-0044-483b-adfd-d950be611d45",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภูมิสิทธิ์ มาประจง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1489,
+      "candidate_uuid": "83675392-7973-4b22-84f3-366872dbacfa",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พันเอกปรมะ เรื่องสูงเนิน",
+      "party": "เศรษฐกิจ",
+      "votes": 852,
+      "candidate_uuid": "c904d411-30fa-4b89-b7a8-35ac971ad4cc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชูชัย พลวัน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 485,
+      "candidate_uuid": "86633eac-0b94-44ab-812e-52ba0a8660bd",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวันทา สมร่าง",
+      "party": "ประชากรไทย",
+      "votes": 469,
+      "candidate_uuid": "27d04a3a-e6bc-476f-9791-f18d525ac137",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางณัฏฐนันท์ ถาวรีย์สีแดด",
+      "party": "ปวงชนไทย",
+      "votes": 226,
+      "candidate_uuid": "d69c7e37-68e1-4617-95e9-9af18f19bf35",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอิทธิศักดิ์ ปาทาน",
+      "party": "กล้าธรรม",
+      "votes": 114,
+      "candidate_uuid": "cd41a1cb-cac9-4496-8bff-e8f8fdcec4c6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -12,7 +12,7 @@
     "3.2": 26,
     "3.3": 2974,
     "3.4": 106326,
-    "4.1": 97460,
+    "4.1": 97560,
     "4.2": 4398,
     "4.3": 4468
   },
@@ -306,8 +306,8 @@
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/33. พระนครศรีอยุธยา เขต 1.json",
   "_validation": {
     "vote_sum": 97460,
-    "good_votes": 97460,
-    "sum_diff_pct": 0.0
+    "good_votes": 97560,
+    "sum_diff_pct": 0.1
   },
   "province_code": "14",
   "province_name_normalized": "พระนครศรีอยุธยา",
@@ -316,7 +316,7 @@
     "voters_came": 106326,
     "ballots_received": 156540,
     "ballots_used": 106326,
-    "good_votes": 97460,
+    "good_votes": 97560,
     "invalid_votes": 4398,
     "no_votes": 4468
   },

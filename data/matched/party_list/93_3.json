@@ -185,22 +185,22 @@
     {
       "number": 34,
       "party": "สร้างอนาคตไทย",
-      "votes": 74
+      "votes": 138
     },
     {
       "number": 35,
       "party": "รักชาติ",
-      "votes": 138
+      "votes": 148
     },
     {
       "number": 36,
       "party": "ไทยพร้อม",
-      "votes": 148
+      "votes": 18046
     },
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 18046
+      "votes": 71
     },
     {
       "number": 38,
@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/36. พัทลุง เขต 3.json",
   "_validation": {
-    "vote_sum": 110887,
+    "vote_sum": 110884,
     "good_votes": 110887,
     "sum_diff_pct": 0.0
   },
@@ -555,28 +555,28 @@
     {
       "number": 34,
       "party": "สร้างอนาคตไทย",
-      "votes": 74,
+      "votes": 138,
       "party_uuid": "f37e9d3e-7bd9-4c83-a960-a6a05547c5b4",
       "party_code": "34"
     },
     {
       "number": 35,
       "party": "รักชาติ",
-      "votes": 138,
+      "votes": 148,
       "party_uuid": "54706125-9661-467d-a8af-78994d14b116",
       "party_code": "35"
     },
     {
       "number": 36,
       "party": "ไทยพร้อม",
-      "votes": 148,
+      "votes": 18046,
       "party_uuid": "54c9efd2-2cd9-487a-91f7-1251aae30c2d",
       "party_code": "36"
     },
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 18046,
+      "votes": 71,
       "party_uuid": "013c219e-e197-416d-84ea-00ba9c35465e",
       "party_code": "37"
     },

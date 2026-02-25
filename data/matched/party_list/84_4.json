@@ -5,7 +5,7 @@
   "summary_by_section": {
     "1.1": 123380,
     "1.2": 98789,
-    "2.1": 123860,
+    "2.1": 123460,
     "2.2": 98789,
     "2.3": 25071,
     "3.1": 95052,
@@ -150,7 +150,7 @@
     {
       "number": 27,
       "party": "ประชาธิปัตย์",
-      "votes": 57683
+      "votes": 57643
     },
     {
       "number": 28,
@@ -170,7 +170,7 @@
     {
       "number": 31,
       "party": "ประชากรไทย",
-      "votes": 75
+      "votes": 375
     },
     {
       "number": 32,
@@ -305,16 +305,16 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/68. สุราษฎร์ธานี เขต 4.json",
   "_validation": {
-    "vote_sum": 94398,
+    "vote_sum": 94658,
     "good_votes": 94398,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.28
   },
   "province_code": "84",
   "province_name_normalized": "สุราษฎร์ธานี",
   "summary": {
     "eligible_voters": 123380,
     "voters_came": 98789,
-    "ballots_received": 123860,
+    "ballots_received": 123460,
     "ballots_used": 98789,
     "good_votes": 94398,
     "invalid_votes": 2813,
@@ -506,7 +506,7 @@
     {
       "number": 27,
       "party": "ประชาธิปัตย์",
-      "votes": 57683,
+      "votes": 57643,
       "party_uuid": "d7155f6d-736d-42c0-8bc0-00ee6e1970dc",
       "party_code": "27"
     },
@@ -534,7 +534,7 @@
     {
       "number": 31,
       "party": "ประชากรไทย",
-      "votes": 75,
+      "votes": 375,
       "party_uuid": "7ffe2115-72d1-4d71-9962-03ff61afc67c",
       "party_code": "31"
     },

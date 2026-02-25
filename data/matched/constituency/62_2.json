@@ -18,19 +18,19 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายเพชรภูมิ อาภรณ์รัตน์",
       "party": "กล้าธรรม",
       "votes": 42302
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายธนากร รัตนากร",
       "party": "เพื่อไทย",
       "votes": 32930
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายสุกิจ ศุภกิจเจริญ",
       "party": "ประชาชน",
       "votes": 16681
@@ -73,7 +73,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายเพชรภูมิ อาภรณ์รัตน์",
       "party": "กล้าธรรม",
       "votes": 42302,
@@ -81,7 +81,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายธนากร รัตนากร",
       "party": "เพื่อไทย",
       "votes": 32930,
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายสุกิจ ศุภกิจเจริญ",
       "party": "ประชาชน",
       "votes": 16681,

@@ -19,28 +19,28 @@
   "results": [
     {
       "number": 1,
+      "party": "รวมใจไทย",
+      "votes": 323
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 910
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 2935
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 1253
     },
     {
-      "number": 4,
+      "number": 5,
       "party": "มิติใหม่",
       "votes": 503
-    },
-    {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 323
     },
     {
       "number": 6,
@@ -204,7 +204,7 @@
     },
     {
       "number": 38,
-      "party": "พลังธรรมใหม่",
+      "party": "พลังธรรมไทย",
       "votes": 49
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "number": 49,
-      "party": "ไทยก้าวใหม่",
+      "party": "ไทยก้าวหน้า",
       "votes": 97
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "number": 57,
-      "party": "พลังไทยรักชาติ",
+      "party": "พลังรักชาติ",
       "votes": 40
     }
   ],
@@ -322,35 +322,35 @@
   },
   "matched_parties": [
     {
-      "number": 5,
+      "number": 1,
       "party": "รวมใจไทย",
       "votes": 323,
       "party_uuid": "e9f5dc95-0d5c-46bc-8e2c-be791faa2b27",
       "party_code": "5"
     },
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 910,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 2935,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 1253,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },
     {
-      "number": 4,
+      "number": 5,
       "party": "มิติใหม่",
       "votes": 503,
       "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",

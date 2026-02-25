@@ -19,18 +19,18 @@
   "results": [
     {
       "number": 1,
+      "party": "ใหม่",
+      "votes": 289
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 601
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1089
-    },
-    {
-      "number": 3,
-      "party": "ใหม่",
-      "votes": 289
     },
     {
       "number": 4,
@@ -60,7 +60,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17479
+      "votes": 17579
     },
     {
       "number": 10,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/69. สุรินทร์ เขต 3.json",
   "_validation": {
-    "vote_sum": 78837,
+    "vote_sum": 78937,
     "good_votes": 78837,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.13
   },
   "province_code": "32",
   "province_name_normalized": "สุรินทร์",
@@ -322,21 +322,21 @@
   },
   "matched_parties": [
     {
-      "number": 3,
+      "number": 1,
       "party": "ใหม่",
       "votes": 289,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 601,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1089,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
@@ -380,7 +380,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 17479,
+      "votes": 17579,
       "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
       "party_code": "9"
     },

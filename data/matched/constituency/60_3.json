@@ -24,13 +24,13 @@
       "votes": 53454
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายยุทธการ พลแสน",
       "party": "ประชาชน",
       "votes": 21890
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายสัญชัย วงษ์สุนทร",
       "party": "เพื่อไทย",
       "votes": 7059
@@ -93,7 +93,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายยุทธการ พลแสน",
       "party": "ประชาชน",
       "votes": 21890,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายสัญชัย วงษ์สุนทร",
       "party": "เพื่อไทย",
       "votes": 7059,

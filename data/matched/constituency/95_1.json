@@ -18,37 +18,37 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสุไลมาน บือแนปีแน",
       "party": "ประชาชาติ",
       "votes": 31446
     },
     {
-      "number": 4,
+      "number": 2,
       "name": "นายอาดิลัน อาลีอิสเฮาะ",
       "party": "กล้าธรรม",
       "votes": 20639
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายประสิทธิชัย พงษ์สุวรรณศิริ",
       "party": "ภูมิใจไทย",
       "votes": 16200
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "นายอันวาร์ อุเซ็ง",
       "party": "ประชาชน",
       "votes": 15216
     },
     {
-      "number": 6,
+      "number": 5,
       "name": "นายอับดุลการิม เด็งระกีนา",
       "party": "ประชาธิปัตย์",
       "votes": 5182
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "นายสมภพ สุภนรานนท์",
       "party": "ไทยก้าวใหม่",
       "votes": 1136
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสุไลมาน บือแนปีแน",
       "party": "ประชาชาติ",
       "votes": 31446,
@@ -93,7 +93,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 2,
       "name": "นายอาดิลัน อาลีอิสเฮาะ",
       "party": "กล้าธรรม",
       "votes": 20639,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายประสิทธิชัย พงษ์สุวรรณศิริ",
       "party": "ภูมิใจไทย",
       "votes": 16200,
@@ -109,7 +109,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "นายอันวาร์ อุเซ็ง",
       "party": "ประชาชน",
       "votes": 15216,
@@ -117,7 +117,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 5,
       "name": "นายอับดุลการิม เด็งระกีนา",
       "party": "ประชาธิปัตย์",
       "votes": 5182,
@@ -125,7 +125,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "นายสมภพ สุภนรานนท์",
       "party": "ไทยก้าวใหม่",
       "votes": 1136,

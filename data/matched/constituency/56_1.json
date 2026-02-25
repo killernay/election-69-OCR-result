@@ -4,9 +4,9 @@
   "type": "constituency",
   "summary_by_section": {
     "1.1": 124913,
-    "1.2": 98639,
+    "1.2": 94639,
     "2.1": 128162,
-    "2.2": 98625,
+    "2.2": 94625,
     "2.3": 29537,
     "3.1": 89643,
     "3.2": 38,
@@ -21,7 +21,7 @@
       "number": 1,
       "name": "นางทัศนีย์ สมธิ",
       "party": "รวมไทยสร้างชาติ",
-      "votes": 2790
+      "votes": 1054
     },
     {
       "number": 2,
@@ -39,13 +39,13 @@
       "number": 4,
       "name": "นายชยุต จิตธำรงสุนทร",
       "party": "ภูมิใจไทย",
-      "votes": 1054
+      "votes": 1228
     },
     {
       "number": 5,
       "name": "นายวิชัย ไชยมงคล",
       "party": "เพื่อไทย",
-      "votes": 1228
+      "votes": 2790
     },
     {
       "number": 6,
@@ -64,9 +64,9 @@
   "province_name_normalized": "พะเยา",
   "summary": {
     "eligible_voters": 124913,
-    "voters_came": 98639,
+    "voters_came": 94639,
     "ballots_received": 128162,
-    "ballots_used": 98625,
+    "ballots_used": 94625,
     "good_votes": 91616,
     "invalid_votes": 2999,
     "no_votes": 4010
@@ -76,7 +76,7 @@
       "number": 1,
       "name": "นางทัศนีย์ สมธิ",
       "party": "รวมไทยสร้างชาติ",
-      "votes": 2790,
+      "votes": 1054,
       "candidate_uuid": "4f2b52a8-a621-4872-822a-92ce4cb9c8fa",
       "is_active": true
     },
@@ -100,7 +100,7 @@
       "number": 4,
       "name": "นายชยุต จิตธำรงสุนทร",
       "party": "ภูมิใจไทย",
-      "votes": 1054,
+      "votes": 1228,
       "candidate_uuid": "9be87e37-67c3-4a6f-a372-b89b3fb0aac7",
       "is_active": true
     },
@@ -108,7 +108,7 @@
       "number": 5,
       "name": "นายวิชัย ไชยมงคล",
       "party": "เพื่อไทย",
-      "votes": 1228,
+      "votes": 2790,
       "candidate_uuid": "057cd62c-57dd-4883-97d0-8b65796db02a",
       "is_active": true
     },

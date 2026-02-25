@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายธนภัทร ตระกูลภูชัย",
       "party": "ประชาชน",
       "votes": 42684
@@ -48,13 +48,13 @@
       "votes": 6809
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายสรวีย์ ศุภปณิตา",
       "party": "เศรษฐกิจ",
       "votes": 2767
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายบุญเลิศ สงบจิตร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2017
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายธนภัทร ตระกูลภูชัย",
       "party": "ประชาชน",
       "votes": 42684,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายสรวีย์ ศุภปณิตา",
       "party": "เศรษฐกิจ",
       "votes": 2767,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายบุญเลิศ สงบจิตร์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 2017,

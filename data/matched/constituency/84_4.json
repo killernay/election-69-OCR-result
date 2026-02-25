@@ -42,13 +42,13 @@
       "votes": 8917
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายสุพจน์ บานเย็น",
       "party": "รวมไทยสร้างชาติ",
       "votes": 608
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสมพล สิงหพล",
       "party": "เพื่อไทย",
       "votes": 537
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายสุพจน์ บานเย็น",
       "party": "รวมไทยสร้างชาติ",
       "votes": 608,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายสมพล สิงหพล",
       "party": "เพื่อไทย",
       "votes": 537,

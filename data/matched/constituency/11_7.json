@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายบุญเลิศ แสงพันธุ์",
       "party": "ประชาชน",
       "votes": 46394
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นางสาวไพลิน เทียนสุวรรณ",
       "party": "ภูมิใจไทย",
       "votes": 28922
@@ -36,7 +36,7 @@
       "votes": 15568
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายอลงกต สงพัฒน์แก้ว",
       "party": "เศรษฐกิจ",
       "votes": 2645
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": 1,
       "name": "นายบุญเลิศ แสงพันธุ์",
       "party": "ประชาชน",
       "votes": 46394,
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นางสาวไพลิน เทียนสุวรรณ",
       "party": "ภูมิใจไทย",
       "votes": 28922,
@@ -115,7 +115,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายอลงกต สงพัฒน์แก้ว",
       "party": "เศรษฐกิจ",
       "votes": 2645,

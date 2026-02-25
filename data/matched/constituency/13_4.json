@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 4,
       "name": "นายสกล สุนทรวาณิชย์กิจ",
       "party": "ประชาชน",
       "votes": 41039
     },
     {
-      "number": 4,
+      "number": 1,
       "name": "นายสุทิน นพขำ",
       "party": "เพื่อไทย",
       "votes": 17512
@@ -48,13 +48,13 @@
       "votes": 3900
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายสดใส โรจนวิชัย",
       "party": "เศรษฐกิจ",
       "votes": 1903
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายจำเริญ ปิ่นภู่",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1495
@@ -91,7 +91,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": 4,
       "name": "นายสกล สุนทรวาณิชย์กิจ",
       "party": "ประชาชน",
       "votes": 41039,
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 1,
       "name": "นายสุทิน นพขำ",
       "party": "เพื่อไทย",
       "votes": 17512,
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายสดใส โรจนวิชัย",
       "party": "เศรษฐกิจ",
       "votes": 1903,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายจำเริญ ปิ่นภู่",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1495,

@@ -19,23 +19,23 @@
   "results": [
     {
       "number": 1,
+      "party": "Party 1 (Not Listed in Document)",
+      "votes": 0
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 378
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 567
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 158
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 179
     },
     {
       "number": 5,
@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/19. นครปฐม เขต 6.json",
   "_validation": {
-    "vote_sum": 91036,
+    "vote_sum": 90857,
     "good_votes": 91036,
     "sum_diff_pct": 0.2
   },
@@ -322,21 +322,21 @@
   },
   "matched_parties": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 378,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 567,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 158,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
@@ -712,14 +712,15 @@
       "votes": 40,
       "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
       "party_code": "57"
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 179,
-      "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
-      "party_code": "4"
     }
   ],
-  "unmatched_parties": []
+  "unmatched_parties": [
+    {
+      "number": 1,
+      "party": "Party 1 (Not Listed in Document)",
+      "votes": 0,
+      "party_uuid": null,
+      "party_code": null
+    }
+  ]
 }

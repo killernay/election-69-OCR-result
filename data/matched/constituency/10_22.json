@@ -18,85 +18,85 @@
   },
   "results": [
     {
-      "number": 6,
+      "number": 1,
       "name": "นายสุภกร ตันติไพบูลย์ธนะ",
       "party": "ประชาชน",
       "votes": 42264
     },
     {
-      "number": 8,
+      "number": 2,
       "name": "นายพงศ์พล ยอดเมืองเจริญ",
       "party": "ภูมิใจไทย",
       "votes": 17486
     },
     {
-      "number": 5,
+      "number": 3,
       "name": "นายปรินต์ ทองปุสสะ",
       "party": "ประชาธิปัตย์",
       "votes": 9244
     },
     {
-      "number": 7,
+      "number": 4,
       "name": "นายธกร เลาหพงศ์ชนะ",
       "party": "เพื่อไทย",
       "votes": 7036
     },
     {
-      "number": 11,
+      "number": 5,
       "name": "ร.ต.ต.มณฑล โพธิ์คาย",
       "party": "พลังประชารัฐ",
       "votes": 2983
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายพงศ์ไพศาล มะลุลีม",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1705
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายกัณฑ์ชาติ มนต์กันภัย",
       "party": "ไทยก้าวใหม่",
       "votes": 1491
     },
     {
-      "number": 12,
+      "number": 8,
       "name": "นายวิรัล ทองเมืองหลวง",
       "party": "เศรษฐกิจ",
       "votes": 1130
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายอรรถเวช กองนักวงษ์",
       "party": "ไทยสร้างไทย",
       "votes": 786
     },
     {
-      "number": 4,
+      "number": 10,
       "name": "นายปรนัยน์ นพการุญ",
       "party": "พลวัต",
       "votes": 425
     },
     {
-      "number": 2,
+      "number": 11,
       "name": "นายอธิป เพศยนาวิน",
       "party": "ปวงชนไทย",
       "votes": 368
     },
     {
-      "number": 10,
+      "number": 12,
       "name": "นายชณทัต รินน์นพคุณ",
       "party": "กล้าธรรม",
       "votes": 253
     },
     {
-      "number": 14,
+      "number": 13,
       "name": "นายวราทิตย์ ตะโกจีน",
       "party": "วิชชั่นใหม่",
       "votes": 205
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "นายปรีชา เอี่ยมอ่อน",
       "party": "โอกาสใหม่",
       "votes": 182
@@ -121,7 +121,7 @@
   },
   "matched_candidates": [
     {
-      "number": 6,
+      "number": 1,
       "name": "นายสุภกร ตันติไพบูลย์ธนะ",
       "party": "ประชาชน",
       "votes": 42264,
@@ -129,7 +129,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 2,
       "name": "นายพงศ์พล ยอดเมืองเจริญ",
       "party": "ภูมิใจไทย",
       "votes": 17486,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 3,
       "name": "นายปรินต์ ทองปุสสะ",
       "party": "ประชาธิปัตย์",
       "votes": 9244,
@@ -145,7 +145,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 4,
       "name": "นายธกร เลาหพงศ์ชนะ",
       "party": "เพื่อไทย",
       "votes": 7036,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 11,
+      "number": 5,
       "name": "ร.ต.ต.มณฑล โพธิ์คาย",
       "party": "พลังประชารัฐ",
       "votes": 2983,
@@ -161,7 +161,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายพงศ์ไพศาล มะลุลีม",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1705,
@@ -169,7 +169,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายกัณฑ์ชาติ มนต์กันภัย",
       "party": "ไทยก้าวใหม่",
       "votes": 1491,
@@ -177,7 +177,7 @@
       "is_active": true
     },
     {
-      "number": 12,
+      "number": 8,
       "name": "นายวิรัล ทองเมืองหลวง",
       "party": "เศรษฐกิจ",
       "votes": 1130,
@@ -185,7 +185,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายอรรถเวช กองนักวงษ์",
       "party": "ไทยสร้างไทย",
       "votes": 786,
@@ -193,7 +193,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 10,
       "name": "นายปรนัยน์ นพการุญ",
       "party": "พลวัต",
       "votes": 425,
@@ -201,7 +201,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 11,
       "name": "นายอธิป เพศยนาวิน",
       "party": "ปวงชนไทย",
       "votes": 368,
@@ -209,7 +209,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 12,
       "name": "นายชณทัต รินน์นพคุณ",
       "party": "กล้าธรรม",
       "votes": 253,
@@ -217,7 +217,7 @@
       "is_active": true
     },
     {
-      "number": 14,
+      "number": 13,
       "name": "นายวราทิตย์ ตะโกจีน",
       "party": "วิชชั่นใหม่",
       "votes": 205,
@@ -225,7 +225,7 @@
       "is_active": true
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "นายปรีชา เอี่ยมอ่อน",
       "party": "โอกาสใหม่",
       "votes": 182,

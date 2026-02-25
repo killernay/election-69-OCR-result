@@ -19,16 +19,21 @@
   "results": [
     {
       "number": 1,
+      "party": "ไม่ระบุ",
+      "votes": 0
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 144
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1262
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 2750
     },
@@ -322,21 +327,21 @@
   },
   "matched_parties": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 144,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1262,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 3,
+      "number": 4,
       "party": "ใหม่",
       "votes": 2750,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
@@ -721,5 +726,13 @@
       "party_code": "57"
     }
   ],
-  "unmatched_parties": []
+  "unmatched_parties": [
+    {
+      "number": 1,
+      "party": "ไม่ระบุ",
+      "votes": 0,
+      "party_uuid": null,
+      "party_code": null
+    }
+  ]
 }

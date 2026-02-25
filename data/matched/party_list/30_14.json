@@ -18,14 +18,9 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 767
-    },
-    {
-      "number": 2,
-      "party": "เพื่อชาติไทย",
-      "votes": 1377
     },
     {
       "number": 3,
@@ -44,28 +39,33 @@
     },
     {
       "number": 6,
-      "party": "รวมไทยสร้างชาติ",
-      "votes": 2173
-    },
-    {
-      "number": 7,
       "party": "พลวัต",
       "votes": 106
     },
     {
-      "number": 8,
+      "number": 7,
       "party": "ประชาธิปไตยใหม่",
       "votes": 394
     },
     {
-      "number": 9,
+      "number": 8,
       "party": "เพื่อไทย",
       "votes": 12276
     },
     {
-      "number": 10,
+      "number": 9,
+      "party": "เพื่อชาติไทย",
+      "votes": 1377
+    },
+    {
+      "number": 9,
       "party": "ทางเลือกใหม่",
       "votes": 422
+    },
+    {
+      "number": 10,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2173
     },
     {
       "number": 11,
@@ -322,7 +322,7 @@
   },
   "matched_parties": [
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 767,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
@@ -350,42 +350,42 @@
       "party_code": "5"
     },
     {
-      "number": 7,
+      "number": 6,
       "party": "พลวัต",
       "votes": 106,
       "party_uuid": "bd8d9f14-f757-41fb-8f37-d6128d9d012d",
       "party_code": "7"
     },
     {
-      "number": 8,
+      "number": 7,
       "party": "ประชาธิปไตยใหม่",
       "votes": 394,
       "party_uuid": "d1964fe3-2dd0-43d5-a190-77fbfaf586b2",
       "party_code": "8"
     },
     {
-      "number": 9,
+      "number": 8,
       "party": "เพื่อไทย",
       "votes": 12276,
       "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
       "party_code": "9"
     },
     {
-      "number": 2,
+      "number": 9,
       "party": "เพื่อชาติไทย",
       "votes": 1377,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 10,
+      "number": 9,
       "party": "ทางเลือกใหม่",
       "votes": 422,
       "party_uuid": "bdd306a2-80c7-4d7b-a7ff-8dc1ec9fcc76",
       "party_code": "10"
     },
     {
-      "number": 6,
+      "number": 10,
       "party": "รวมไทยสร้างชาติ",
       "votes": 2173,
       "party_uuid": "115da917-bf32-4e96-a2ae-b7818d0909ee",

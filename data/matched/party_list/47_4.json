@@ -109,7 +109,7 @@
     },
     {
       "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
+      "party": "สังคมประชาธิปไตย",
       "votes": 43
     },
     {
@@ -180,7 +180,7 @@
     {
       "number": 33,
       "party": "ประชาชาติ",
-      "votes": 123
+      "votes": 223
     },
     {
       "number": 34,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/57. สกลนคร เขต 4.json",
   "_validation": {
-    "vote_sum": 76144,
+    "vote_sum": 76244,
     "good_votes": 76144,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.13
   },
   "province_code": "47",
   "province_name_normalized": "สกลนคร",
@@ -541,7 +541,7 @@
     {
       "number": 33,
       "party": "ประชาชาติ",
-      "votes": 123,
+      "votes": 223,
       "party_uuid": "7f4755ca-ea3a-4023-869d-9cabba328db0",
       "party_code": "33"
     },

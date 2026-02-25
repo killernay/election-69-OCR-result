@@ -18,61 +18,61 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวชลณัฏฐ์ โกยกุล",
       "party": "ประชาชน",
       "votes": 47692
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นางสางมัญดา อัฐจินดา",
       "party": "ภูมิใจไทย",
       "votes": 13153
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายสุวัฒน์ ม่วงศิริ",
       "party": "เพื่อไทย",
       "votes": 12310
     },
     {
-      "number": 10,
+      "number": 4,
       "name": "นายพร้อมพล ธรรมจินดา",
       "party": "ประชาธิปัตย์",
       "votes": 7586
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นางสาวธัญญ์ภรณ์ สุจารีรัตน์",
       "party": "เศรษฐกิจ",
       "votes": 2236
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางสาวทิพย์รัมภา วิธูชุลีโชติ",
       "party": "ไทยก้าวไทย",
       "votes": 2071
     },
     {
-      "number": 5,
+      "number": 7,
       "name": "นายจักรทิพย์ วงษ์งามสวย",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1831
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายปิ่น แจ้งชะไว",
       "party": "รักชาติ",
       "votes": 1609
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นางสาวนัจภัค กรเกษม",
       "party": "กล้าธรรม",
       "votes": 1033
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นางสาวณฤษร พฤฒิวโรดม",
       "party": "ไทยสร้างไทย",
       "votes": 870
@@ -115,7 +115,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวชลณัฏฐ์ โกยกุล",
       "party": "ประชาชน",
       "votes": 47692,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นางสางมัญดา อัฐจินดา",
       "party": "ภูมิใจไทย",
       "votes": 13153,
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายสุวัฒน์ ม่วงศิริ",
       "party": "เพื่อไทย",
       "votes": 12310,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 10,
+      "number": 4,
       "name": "นายพร้อมพล ธรรมจินดา",
       "party": "ประชาธิปัตย์",
       "votes": 7586,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "นางสาวธัญญ์ภรณ์ สุจารีรัตน์",
       "party": "เศรษฐกิจ",
       "votes": 2236,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 6,
       "name": "นางสาวทิพย์รัมภา วิธูชุลีโชติ",
       "party": "ไทยก้าวไทย",
       "votes": 2071,
@@ -163,7 +163,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 7,
       "name": "นายจักรทิพย์ วงษ์งามสวย",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1831,
@@ -171,7 +171,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 8,
       "name": "นายปิ่น แจ้งชะไว",
       "party": "รักชาติ",
       "votes": 1609,
@@ -179,7 +179,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 9,
       "name": "นางสาวนัจภัค กรเกษม",
       "party": "กล้าธรรม",
       "votes": 1033,
@@ -187,7 +187,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นางสาวณฤษร พฤฒิวโรดม",
       "party": "ไทยสร้างไทย",
       "votes": 870,

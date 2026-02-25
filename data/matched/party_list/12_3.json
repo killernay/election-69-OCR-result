@@ -230,7 +230,7 @@
     {
       "number": 43,
       "party": "พลังประชารัฐ",
-      "votes": 554
+      "votes": 47712
     },
     {
       "number": 44,
@@ -240,17 +240,17 @@
     {
       "number": 45,
       "party": "เป็นธรรม",
-      "votes": 42
+      "votes": 554
     },
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 47712
+      "votes": 185
     },
     {
       "number": 47,
       "party": "ประชาไทย",
-      "votes": 185
+      "votes": 632
     },
     {
       "number": 48,
@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/24. นนทบุรี เขต 3.json",
   "_validation": {
-    "vote_sum": 100706,
+    "vote_sum": 101296,
     "good_votes": 100706,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.59
   },
   "province_code": "12",
   "province_name_normalized": "นนทบุรี",
@@ -618,7 +618,7 @@
     {
       "number": 43,
       "party": "พลังประชารัฐ",
-      "votes": 554,
+      "votes": 47712,
       "party_uuid": "03347cbc-6089-474c-a3f6-484ae981c9a6",
       "party_code": "43"
     },
@@ -632,21 +632,21 @@
     {
       "number": 45,
       "party": "เป็นธรรม",
-      "votes": 42,
+      "votes": 554,
       "party_uuid": "a54ae018-5399-423a-8a14-4d5c849a79a0",
       "party_code": "45"
     },
     {
       "number": 46,
       "party": "ประชาชน",
-      "votes": 47712,
+      "votes": 185,
       "party_uuid": "1116011c-1ef3-4cca-a186-c1b9f7984ede",
       "party_code": "46"
     },
     {
       "number": 47,
       "party": "ประชาไทย",
-      "votes": 185,
+      "votes": 632,
       "party_uuid": "a2917c34-67f8-4311-813f-3138fd2d9af0",
       "party_code": "47"
     },

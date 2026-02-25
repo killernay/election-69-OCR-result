@@ -305,9 +305,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/72. อ่างทอง เขต 2.json",
   "_validation": {
-    "vote_sum": 78266,
+    "vote_sum": 73264,
     "good_votes": 78266,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 6.39
   },
   "province_code": "15",
   "province_name_normalized": "อ่างทอง",

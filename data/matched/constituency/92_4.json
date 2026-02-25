@@ -36,25 +36,25 @@
       "votes": 10018
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายเสถียร แก้วงาม",
       "party": "กล้าธรรม",
       "votes": 1236
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายวิรัช วิชัยวงศ์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 696
     },
     {
-      "number": 7,
+      "number": 3,
       "name": "นายสุมิตร สามห้วย",
       "party": "ไทยก้าวใหม่",
       "votes": 571
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "นายอาณัฐชัย ภู่กลาง",
       "party": "เพื่อไทย",
       "votes": 548
@@ -103,7 +103,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "นายเสถียร แก้วงาม",
       "party": "กล้าธรรม",
       "votes": 1236,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 8,
       "name": "นายวิรัช วิชัยวงศ์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 696,
@@ -119,7 +119,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 3,
       "name": "นายสุมิตร สามห้วย",
       "party": "ไทยก้าวใหม่",
       "votes": 571,
@@ -127,7 +127,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "นายอาณัฐชัย ภู่กลาง",
       "party": "เพื่อไทย",
       "votes": 548,

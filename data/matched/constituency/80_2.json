@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวนันทวัน วิเชียร",
       "party": "ภูมิใจไทย",
       "votes": 45334
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายเชาวน์วัศ เสนพงศ์",
       "party": "ประชาธิปัตย์",
       "votes": 21111
@@ -48,7 +48,7 @@
       "votes": 4157
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายทศพร แซ่ชิ้น",
       "party": "เศรษฐกิจ",
       "votes": 1077
@@ -60,7 +60,7 @@
       "votes": 842
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายปัญโน หวานนุรักษ์",
       "party": "พลวัต",
       "votes": 307
@@ -97,7 +97,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": 3,
       "name": "นางสาวนันทวัน วิเชียร",
       "party": "ภูมิใจไทย",
       "votes": 45334,
@@ -105,7 +105,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายเชาวน์วัศ เสนพงศ์",
       "party": "ประชาธิปัตย์",
       "votes": 21111,
@@ -137,7 +137,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 7,
       "name": "นายทศพร แซ่ชิ้น",
       "party": "เศรษฐกิจ",
       "votes": 1077,
@@ -153,7 +153,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายปัญโน หวานนุรักษ์",
       "party": "พลวัต",
       "votes": 307,

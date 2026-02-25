@@ -29,18 +29,18 @@
     },
     {
       "number": 3,
-      "party": "ใหม่",
-      "votes": 170
-    },
-    {
-      "number": 4,
       "party": "มิติใหม่",
       "votes": 127
     },
     {
-      "number": 5,
+      "number": 4,
       "party": "รวมใจไทย",
       "votes": 633
+    },
+    {
+      "number": 5,
+      "party": "ไทยใหม่",
+      "votes": 170
     },
     {
       "number": 6,
@@ -336,14 +336,14 @@
       "party_code": "2"
     },
     {
-      "number": 4,
+      "number": 3,
       "party": "มิติใหม่",
       "votes": 127,
       "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
       "party_code": "4"
     },
     {
-      "number": 5,
+      "number": 4,
       "party": "รวมใจไทย",
       "votes": 633,
       "party_uuid": "e9f5dc95-0d5c-46bc-8e2c-be791faa2b27",
@@ -714,7 +714,7 @@
       "party_code": "57"
     },
     {
-      "number": 3,
+      "number": 5,
       "party": "ใหม่",
       "votes": 170,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",

@@ -27,7 +27,7 @@
       "number": 3,
       "name": "นายนาวิน วังแปง",
       "party": "ประชาชน",
-      "votes": 17405
+      "votes": 17505
     },
     {
       "number": 1,
@@ -56,9 +56,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/13. เชียงราย เขต 5.json",
   "_validation": {
-    "vote_sum": 91365,
+    "vote_sum": 91465,
     "good_votes": 91365,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.11
   },
   "province_code": "57",
   "province_name_normalized": "เชียงราย",
@@ -84,7 +84,7 @@
       "number": 3,
       "name": "นายนาวิน วังแปง",
       "party": "ประชาชน",
-      "votes": 17405,
+      "votes": 17505,
       "candidate_uuid": "5b735616-484c-45a6-a5bd-3bc88232f29b",
       "is_active": true
     },

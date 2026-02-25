@@ -1,0 +1,167 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127988,
+    "1.2": 79746,
+    "2.1": 132291,
+    "2.2": 79746,
+    "2.3": 52545,
+    "3.1": 74360,
+    "3.2": 16,
+    "3.3": 5370,
+    "3.4": 79746,
+    "4.1": 73695,
+    "4.2": 3433,
+    "4.3": 2618
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชุมนุม ยงสืบชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1393
+    },
+    {
+      "number": 2,
+      "name": "นายธีรวัฒน์ ลมุดกูล",
+      "party": "ประชาธิปัตย์",
+      "votes": 491
+    },
+    {
+      "number": 3,
+      "name": "นายพรศักดิ์ แดงทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 152
+    },
+    {
+      "number": 4,
+      "name": "นายพลวิวัฒน์ แก้วพลงาม",
+      "party": "ปวงชนไทย",
+      "votes": 513
+    },
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 57197
+    },
+    {
+      "number": 6,
+      "name": "นายต่อพงษ์ จีนใจน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 4068
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาย พรมวัง",
+      "party": "ประชากรไทย",
+      "votes": 299
+    },
+    {
+      "number": 8,
+      "name": "นายเสกสรร สุริยา",
+      "party": "ประชาชน",
+      "votes": 8695
+    },
+    {
+      "number": 9,
+      "name": "นายแสวง สีหามาตย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 887
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 9.json",
+  "_validation": {
+    "vote_sum": 73695,
+    "good_votes": 73695,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 127988,
+    "voters_came": 79746,
+    "ballots_received": 132291,
+    "ballots_used": 79746,
+    "good_votes": 73695,
+    "invalid_votes": 3433,
+    "no_votes": 2618
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายชุมนุม ยงสืบชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1393,
+      "candidate_uuid": "30302fc4-778b-4aed-86a7-312acf6e27ad",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธีรวัฒน์ ลมุดกูล",
+      "party": "ประชาธิปัตย์",
+      "votes": 491,
+      "candidate_uuid": "6402a2a2-2d32-4e02-bb23-ba0687068b3e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพรศักดิ์ แดงทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 152,
+      "candidate_uuid": "171db759-aeaf-4a88-8318-a2136670db3f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพลวิวัฒน์ แก้วพลงาม",
+      "party": "ปวงชนไทย",
+      "votes": 513,
+      "candidate_uuid": "90b927f1-f59d-4d8f-92ce-49fbb8fbec25",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 57197,
+      "candidate_uuid": "3a1adc5d-c9a6-4da3-8f16-2288269f4ae3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายต่อพงษ์ จีนใจน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 4068,
+      "candidate_uuid": "036e3ef5-ea6c-41ea-99bb-f90b34e8ad81",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาย พรมวัง",
+      "party": "ประชากรไทย",
+      "votes": 299,
+      "candidate_uuid": "67d22fd2-f9a9-44db-b5bb-e52ce7f37447",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเสกสรร สุริยา",
+      "party": "ประชาชน",
+      "votes": 8695,
+      "candidate_uuid": "792fa763-8aa2-41a7-8fde-015194b1b29a",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายแสวง สีหามาตย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 887,
+      "candidate_uuid": "f9ccc007-c304-4db8-ba5b-39d7442a6e57",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

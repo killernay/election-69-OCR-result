@@ -18,13 +18,13 @@
   },
   "results": [
     {
-      "number": 1,
+      "number": "G",
       "name": "นายพิทักษ์เดช เดชเดโช",
       "party": "ประชาธิปัตย์",
       "votes": 47554
     },
     {
-      "number": 8,
+      "number": 1,
       "name": "นายมานะ ยวงทอง",
       "party": "ภูมิใจไทย",
       "votes": 35542
@@ -79,7 +79,7 @@
   },
   "matched_candidates": [
     {
-      "number": 1,
+      "number": "G",
       "name": "นายพิทักษ์เดช เดชเดโช",
       "party": "ประชาธิปัตย์",
       "votes": 47554,
@@ -87,7 +87,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 1,
       "name": "นายมานะ ยวงทอง",
       "party": "ภูมิใจไทย",
       "votes": 35542,

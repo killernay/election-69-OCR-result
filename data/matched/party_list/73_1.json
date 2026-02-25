@@ -19,18 +19,18 @@
   "results": [
     {
       "number": 1,
+      "party": "ใหม่",
+      "votes": 300
+    },
+    {
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 202
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1178
-    },
-    {
-      "number": 3,
-      "party": "ใหม่",
-      "votes": 300
     },
     {
       "number": 4,
@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/19. นครปฐม เขต 1.json",
   "_validation": {
-    "vote_sum": 95758,
+    "vote_sum": 91758,
     "good_votes": 95758,
     "sum_diff_pct": 4.18
   },
@@ -322,21 +322,21 @@
   },
   "matched_parties": [
     {
-      "number": 3,
+      "number": 1,
       "party": "ใหม่",
       "votes": 300,
       "party_uuid": "3d55d7c9-f0bc-4803-b40e-090a7ea5d872",
       "party_code": "3"
     },
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 202,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",
       "party_code": "1"
     },
     {
-      "number": 2,
+      "number": 3,
       "party": "เพื่อชาติไทย",
       "votes": 1178,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",

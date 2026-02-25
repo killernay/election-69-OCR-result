@@ -18,25 +18,25 @@
   },
   "results": [
     {
-      "number": 4,
+      "number": 1,
       "name": "นางสาวกุลวลี นพอมรบดี",
       "party": "ภูมิใจไทย",
       "votes": 56407
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายนรพนธ์ พลายสีนิล",
       "party": "ประชาชน",
       "votes": 28931
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายนพพล ภู่แย้ม",
       "party": "เพื่อไทย",
       "votes": 7671
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "นายทนงค์ศักดิ์ ศิรรัตน์ประภา",
       "party": "ประชาธิปัตย์",
       "votes": 1886
@@ -73,7 +73,7 @@
   },
   "matched_candidates": [
     {
-      "number": 4,
+      "number": 1,
       "name": "นางสาวกุลวลี นพอมรบดี",
       "party": "ภูมิใจไทย",
       "votes": 56407,
@@ -81,7 +81,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายนรพนธ์ พลายสีนิล",
       "party": "ประชาชน",
       "votes": 28931,
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายนพพล ภู่แย้ม",
       "party": "เพื่อไทย",
       "votes": 7671,
@@ -97,7 +97,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "นายทนงค์ศักดิ์ ศิรรัตน์ประภา",
       "party": "ประชาธิปัตย์",
       "votes": 1886,

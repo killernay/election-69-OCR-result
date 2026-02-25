@@ -1,0 +1,167 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127640,
+    "1.2": 81656,
+    "2.1": 123257,
+    "2.2": 81656,
+    "2.3": 41601,
+    "3.1": 75943,
+    "3.2": 0,
+    "3.3": 5713,
+    "3.4": 81656,
+    "4.1": 75055,
+    "4.2": 3585,
+    "4.3": 3016
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาวณัฐธิดา เล็กอุดากร",
+      "party": "ภูมิใจไทย",
+      "votes": 56479
+    },
+    {
+      "number": 2,
+      "name": "นายวิทธิลักษณ์ จันทร์ธนสมบัติ",
+      "party": "ประชาชน",
+      "votes": 11395
+    },
+    {
+      "number": 3,
+      "name": "นายปรัญชญา ตรีกาญจนา",
+      "party": "เพื่อไทย",
+      "votes": 3555
+    },
+    {
+      "number": 9,
+      "name": "นายกาจ ทุมสิทธิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1043
+    },
+    {
+      "number": 1,
+      "name": "นายปัญจะ จำลองชาติ",
+      "party": "ประชากรไทย",
+      "votes": 691
+    },
+    {
+      "number": 6,
+      "name": "นายสัญชัย ทะนานทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 653
+    },
+    {
+      "number": 4,
+      "name": "นายมนัสชัย โพธิ์แก้ว",
+      "party": "ปวงชนไทย",
+      "votes": 549
+    },
+    {
+      "number": 7,
+      "name": "นายตี๋ แก้วสีจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 491
+    },
+    {
+      "number": 8,
+      "name": "นางสาวรุ้งไพลิน ปิ่นอนันต์สกุล",
+      "party": "กล้าธรรม",
+      "votes": 199
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 75055,
+    "good_votes": 75055,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 127640,
+    "voters_came": 81656,
+    "ballots_received": 123257,
+    "ballots_used": 81656,
+    "good_votes": 75055,
+    "invalid_votes": 3585,
+    "no_votes": 3016
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางสาวณัฐธิดา เล็กอุดากร",
+      "party": "ภูมิใจไทย",
+      "votes": 56479,
+      "candidate_uuid": "631e75f0-bbb5-469b-91c7-6f1e20fea238",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิทธิลักษณ์ จันทร์ธนสมบัติ",
+      "party": "ประชาชน",
+      "votes": 11395,
+      "candidate_uuid": "7a2a5c4a-c5bd-441f-bd5d-62c582690b16",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปรัญชญา ตรีกาญจนา",
+      "party": "เพื่อไทย",
+      "votes": 3555,
+      "candidate_uuid": "1d2ac0a2-82ab-4812-980e-a676c5ab2fec",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายกาจ ทุมสิทธิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1043,
+      "candidate_uuid": "4e31a5b5-fddb-44ad-ad4a-607f2ecc8a65",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปัญจะ จำลองชาติ",
+      "party": "ประชากรไทย",
+      "votes": 691,
+      "candidate_uuid": "2aeacae5-cfe0-4aa0-aefd-41cc74526a59",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสัญชัย ทะนานทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 653,
+      "candidate_uuid": "560e139d-cbc5-48e1-b316-ac496c9caf11",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายมนัสชัย โพธิ์แก้ว",
+      "party": "ปวงชนไทย",
+      "votes": 549,
+      "candidate_uuid": "39b5c5d5-4449-4ce7-8662-1cf86809d995",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายตี๋ แก้วสีจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 491,
+      "candidate_uuid": "547545b8-7ad5-4eee-81f0-29081793093f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวรุ้งไพลิน ปิ่นอนันต์สกุล",
+      "party": "กล้าธรรม",
+      "votes": 199,
+      "candidate_uuid": "0ea28ee0-5295-4a18-a953-5546c348a587",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

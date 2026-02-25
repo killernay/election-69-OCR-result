@@ -1,0 +1,181 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126957,
+    "1.2": 85265,
+    "2.1": 124360,
+    "2.2": 85265,
+    "2.3": 39095,
+    "3.1": 79923,
+    "3.2": 21,
+    "3.3": 5321,
+    "3.4": 85265,
+    "4.1": 78428,
+    "4.2": 3293,
+    "4.3": 3544
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายไตรเทพ งามกมล",
+      "party": "ภูมิใจไทย",
+      "votes": 53217
+    },
+    {
+      "number": 1,
+      "name": "นายเพชร สุพพัตกุล",
+      "party": "ประชาชน",
+      "votes": 15367
+    },
+    {
+      "number": 7,
+      "name": "นายวินัย จีนโน",
+      "party": "เพื่อไทย",
+      "votes": 4664
+    },
+    {
+      "number": 4,
+      "name": "นายพัสกร หัสดิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1396
+    },
+    {
+      "number": 6,
+      "name": "นายบุญทรง ลึกลาภ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1050
+    },
+    {
+      "number": 9,
+      "name": "นางธนวันต์ ทองคำ",
+      "party": "ประชากรไทย",
+      "votes": 742
+    },
+    {
+      "number": 2,
+      "name": "นายธนาศักดิ์ เฉลิมสิทธิวงศา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 647
+    },
+    {
+      "number": 8,
+      "name": "นายสุรศักดิ์ เพชรสว่าง",
+      "party": "กล้าธรรม",
+      "votes": 584
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอกบุญเฮียง ชัยสิทธิ์",
+      "party": "ปวงชนไทย",
+      "votes": 484
+    },
+    {
+      "number": 10,
+      "name": "นายสุระ แก้วอนันต์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 277
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 8.json",
+  "_validation": {
+    "vote_sum": 78428,
+    "good_votes": 78428,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 126957,
+    "voters_came": 85265,
+    "ballots_received": 124360,
+    "ballots_used": 85265,
+    "good_votes": 78428,
+    "invalid_votes": 3293,
+    "no_votes": 3544
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายไตรเทพ งามกมล",
+      "party": "ภูมิใจไทย",
+      "votes": 53217,
+      "candidate_uuid": "10358aec-c9ec-4098-b5bd-9f7fda7c9ba9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเพชร สุพพัตกุล",
+      "party": "ประชาชน",
+      "votes": 15367,
+      "candidate_uuid": "17e2e4d1-9485-4987-ac3d-d4b41237f6b5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวินัย จีนโน",
+      "party": "เพื่อไทย",
+      "votes": 4664,
+      "candidate_uuid": "21d51c17-593e-4271-96af-fc400bd336ea",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพัสกร หัสดิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1396,
+      "candidate_uuid": "166ef702-90dd-4641-90c4-e759a7438657",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบุญทรง ลึกลาภ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1050,
+      "candidate_uuid": "f2f50135-dd84-4d3e-958d-0930a32e2305",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางธนวันต์ ทองคำ",
+      "party": "ประชากรไทย",
+      "votes": 742,
+      "candidate_uuid": "dcc2d4e5-af73-4c6b-9b5d-1d89fecefd04",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนาศักดิ์ เฉลิมสิทธิวงศา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 647,
+      "candidate_uuid": "ebdb6dd8-cc7c-42d7-80d5-76eea96a350d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุรศักดิ์ เพชรสว่าง",
+      "party": "กล้าธรรม",
+      "votes": 584,
+      "candidate_uuid": "91146bc6-2f69-47c0-99f3-a563ee7b28f5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอกบุญเฮียง ชัยสิทธิ์",
+      "party": "ปวงชนไทย",
+      "votes": 484,
+      "candidate_uuid": "c2bcae6e-3254-401c-926f-f27583ee4168",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายสุระ แก้วอนันต์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 277,
+      "candidate_uuid": "7eac1d25-e97c-4bda-913f-c59c87d38efb",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

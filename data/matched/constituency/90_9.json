@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายศักดิ์สิทธิ์ ขาวทอง",
       "party": "ประชาธิปัตย์",
       "votes": 49475
@@ -30,7 +30,7 @@
       "votes": 29715
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายธนทร แก้วอนุรักษ์",
       "party": "ประชาชน",
       "votes": 18986
@@ -73,7 +73,7 @@
   },
   "matched_candidates": [
     {
-      "number": 2,
+      "number": 1,
       "name": "นายศักดิ์สิทธิ์ ขาวทอง",
       "party": "ประชาธิปัตย์",
       "votes": 49475,
@@ -89,7 +89,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 2,
       "name": "นายธนทร แก้วอนุรักษ์",
       "party": "ประชาชน",
       "votes": 18986,

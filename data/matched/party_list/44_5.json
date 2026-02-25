@@ -19,13 +19,13 @@
   "results": [
     {
       "number": 1,
-      "party": "ไทยทรัพย์ทวี",
-      "votes": 2398
+      "party": "เพื่อชาติไทย",
+      "votes": 2144
     },
     {
       "number": 2,
-      "party": "เพื่อชาติไทย",
-      "votes": 2144
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2398
     },
     {
       "number": 3,
@@ -322,14 +322,14 @@
   },
   "matched_parties": [
     {
-      "number": 2,
+      "number": 1,
       "party": "เพื่อชาติไทย",
       "votes": 2144,
       "party_uuid": "0db115a9-bb11-4fc0-9008-4acee3614999",
       "party_code": "2"
     },
     {
-      "number": 1,
+      "number": 2,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2398,
       "party_uuid": "aec0c4f2-be03-4a06-a205-b00971871173",

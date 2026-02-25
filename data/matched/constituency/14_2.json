@@ -24,7 +24,7 @@
       "votes": 53474
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชริน วงศ์พันธ์เที่ยง",
       "party": "ประชาชน",
       "votes": 25836
@@ -36,19 +36,19 @@
       "votes": 9030
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายปฐมรัตน์ ขวนขวายทรัพย์",
       "party": "เศรษฐกิจ",
       "votes": 1953
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายทรงศักดิ์ อยู่ยืน",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1356
     },
     {
-      "number": 5,
+      "number": 8,
       "name": "นางสาวฉวี พงษ์พนัศ",
       "party": "ประชาธิปัตย์",
       "votes": 1144
@@ -60,16 +60,64 @@
       "votes": 699
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายปัญญา พุกราชวงศ์",
       "party": "กล้าธรรม",
       "votes": 662
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นางสาวธนภรณ์ ผลยาม",
       "party": "พลังประชารัฐ",
       "votes": 244
+    },
+    {
+      "number": 11,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 12,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 13,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 14,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 15,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 16,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 17,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 18,
+      "name": "",
+      "party": "",
+      "votes": 0
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/33. พระนครศรีอยุธยา เขต 2.json",
@@ -99,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "นายชริน วงศ์พันธ์เที่ยง",
       "party": "ประชาชน",
       "votes": 25836,
@@ -115,7 +163,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 2,
       "name": "นายปฐมรัตน์ ขวนขวายทรัพย์",
       "party": "เศรษฐกิจ",
       "votes": 1953,
@@ -123,7 +171,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "นายทรงศักดิ์ อยู่ยืน",
       "party": "รวมไทยสร้างชาติ",
       "votes": 1356,
@@ -131,7 +179,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 8,
       "name": "นางสาวฉวี พงษ์พนัศ",
       "party": "ประชาธิปัตย์",
       "votes": 1144,
@@ -147,7 +195,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 9,
       "name": "นายปัญญา พุกราชวงศ์",
       "party": "กล้าธรรม",
       "votes": 662,
@@ -155,7 +203,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 10,
       "name": "นางสาวธนภรณ์ ผลยาม",
       "party": "พลังประชารัฐ",
       "votes": 244,

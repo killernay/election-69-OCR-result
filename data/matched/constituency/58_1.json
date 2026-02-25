@@ -50,9 +50,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/45. แม่ฮ่องสอน เขต 1.json",
   "_validation": {
-    "vote_sum": 61134,
+    "vote_sum": 57134,
     "good_votes": 61134,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 6.54
   },
   "province_code": "58",
   "province_name_normalized": "แม่ฮ่องสอน",

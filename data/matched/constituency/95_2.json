@@ -18,25 +18,25 @@
   },
   "results": [
     {
-      "number": 7,
+      "number": 3,
       "name": "นายซูการ์โน มะทา",
       "party": "ประชาชาติ",
       "votes": 46972
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายสุกรี มะเต๊ะ",
       "party": "ภูมิใจไทย",
       "votes": 24226
     },
     {
-      "number": 6,
+      "number": 1,
       "name": "นางสาวนูรฮายาตี สาเมาะ",
       "party": "ประชาชน",
       "votes": 9570
     },
     {
-      "number": 1,
+      "number": 7,
       "name": "นายธรนินทร์ ยะมาแล",
       "party": "ประชาธิปัตย์",
       "votes": 3060
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 7,
+      "number": 3,
       "name": "นายซูการ์โน มะทา",
       "party": "ประชาชาติ",
       "votes": 46972,
@@ -93,7 +93,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 6,
       "name": "นายสุกรี มะเต๊ะ",
       "party": "ภูมิใจไทย",
       "votes": 24226,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 1,
       "name": "นางสาวนูรฮายาตี สาเมาะ",
       "party": "ประชาชน",
       "votes": 9570,
@@ -109,7 +109,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 7,
       "name": "นายธรนินทร์ ยะมาแล",
       "party": "ประชาธิปัตย์",
       "votes": 3060,

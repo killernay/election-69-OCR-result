@@ -21,7 +21,7 @@
       "number": 1,
       "name": "นางสาวประภาพร ทองปากน้ำ",
       "party": "เพื่อไทย",
-      "votes": 47416
+      "votes": 47516
     },
     {
       "number": 4,
@@ -62,9 +62,9 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/66. สุโขทัย เขต 3.json",
   "_validation": {
-    "vote_sum": 73310,
+    "vote_sum": 73410,
     "good_votes": 73310,
-    "sum_diff_pct": 0.0
+    "sum_diff_pct": 0.14
   },
   "province_code": "64",
   "province_name_normalized": "สุโขทัย",
@@ -82,7 +82,7 @@
       "number": 1,
       "name": "นางสาวประภาพร ทองปากน้ำ",
       "party": "เพื่อไทย",
-      "votes": 47416,
+      "votes": 47516,
       "candidate_uuid": "5f629f51-6d68-48fe-a3fa-e15c8673cbee",
       "is_active": true
     },

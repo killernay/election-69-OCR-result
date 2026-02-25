@@ -24,7 +24,7 @@
       "votes": 49264
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายพหล วรปัญญา",
       "party": "เพื่อไทย",
       "votes": 27504
@@ -36,13 +36,13 @@
       "votes": 15294
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายสุชาติ ลายน้ำเงิน",
       "party": "พลังประชารัฐ",
       "votes": 2527
     },
     {
-      "number": 9,
+      "number": 5,
       "name": "นายเอนก สนามทอง",
       "party": "เศรษฐกิจ",
       "votes": 1816
@@ -54,19 +54,19 @@
       "votes": 882
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นางสาวกัญญาภัค กอกัน",
       "party": "ปวงชนไทย",
       "votes": 801
     },
     {
-      "number": 4,
+      "number": 2,
       "name": "นายพรอนันต์ ไชยชาติ",
       "party": "ประชาธิปัตย์",
       "votes": 670
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "พันเอกสุชาติ คัดสูงเนิน",
       "party": "กล้าธรรม",
       "votes": 467
@@ -99,7 +99,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "นายพหล วรปัญญา",
       "party": "เพื่อไทย",
       "votes": 27504,
@@ -115,7 +115,7 @@
       "is_active": true
     },
     {
-      "number": 5,
+      "number": 4,
       "name": "นายสุชาติ ลายน้ำเงิน",
       "party": "พลังประชารัฐ",
       "votes": 2527,
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 5,
       "name": "นายเอนก สนามทอง",
       "party": "เศรษฐกิจ",
       "votes": 1816,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นางสาวกัญญาภัค กอกัน",
       "party": "ปวงชนไทย",
       "votes": 801,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 2,
       "name": "นายพรอนันต์ ไชยชาติ",
       "party": "ประชาธิปัตย์",
       "votes": 670,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 1,
       "name": "พันเอกสุชาติ คัดสูงเนิน",
       "party": "กล้าธรรม",
       "votes": 467,

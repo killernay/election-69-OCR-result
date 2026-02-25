@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 8,
+      "number": null,
       "name": "นายศุภโชค ศรีสุขจร",
       "party": "ภูมิใจไทย",
       "votes": 57347
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 8,
+      "number": null,
       "name": "นายศุภโชค ศรีสุขจร",
       "party": "ภูมิใจไทย",
       "votes": 57347,

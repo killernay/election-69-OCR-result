@@ -18,19 +18,19 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอนุกูล พฤกษานุศักดิ์",
       "party": "ภูมิใจไทย",
       "votes": 48391
     },
     {
-      "number": 6,
+      "number": 2,
       "name": "นายบารมี ขาวทอง",
       "party": "กล้าธรรม",
       "votes": 25751
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "ว่าที่ ร.ต.สมพร แซ่ลิ่ม",
       "party": "ประชาชน",
       "votes": 9865
@@ -42,7 +42,7 @@
       "votes": 3568
     },
     {
-      "number": 2,
+      "number": 6,
       "name": "นางสาวจิรนาถ เหลาะเหม",
       "party": "เพื่อไทย",
       "votes": 705
@@ -79,7 +79,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นายอนุกูล พฤกษานุศักดิ์",
       "party": "ภูมิใจไทย",
       "votes": 48391,
@@ -87,7 +87,7 @@
       "is_active": true
     },
     {
-      "number": 6,
+      "number": 2,
       "name": "นายบารมี ขาวทอง",
       "party": "กล้าธรรม",
       "votes": 25751,
@@ -95,7 +95,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 3,
       "name": "ว่าที่ ร.ต.สมพร แซ่ลิ่ม",
       "party": "ประชาชน",
       "votes": 9865,
@@ -111,7 +111,7 @@
       "is_active": true
     },
     {
-      "number": 2,
+      "number": 6,
       "name": "นางสาวจิรนาถ เหลาะเหม",
       "party": "เพื่อไทย",
       "votes": 705,

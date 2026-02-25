@@ -1,0 +1,153 @@
+{
+  "province_name": "บุรีรัมย์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125637,
+    "1.2": 77430,
+    "2.1": 122920,
+    "2.2": 77430,
+    "2.3": 45490,
+    "3.1": 71638,
+    "3.2": 1,
+    "3.3": 5791,
+    "3.4": 77430,
+    "4.1": 72175,
+    "4.2": 3521,
+    "4.3": 1734
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอดิพงษ์ ฐิติพิทยา",
+      "party": "ภูมิใจไทย",
+      "votes": 56210
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพงค์ เรื่องชาย",
+      "party": "ประชาชน",
+      "votes": 10630
+    },
+    {
+      "number": 8,
+      "name": "นายทรงพล ทะรารัมย์",
+      "party": "เพื่อไทย",
+      "votes": 3054
+    },
+    {
+      "number": 2,
+      "name": "นายสุประดิษฐ์ แสนทวีสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 725
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชุติมา นับถือสุข",
+      "party": "ประชากรไทย",
+      "votes": 507
+    },
+    {
+      "number": 7,
+      "name": "นายพิสุทธิ์ ยายิรัมย์",
+      "party": "กล้าธรรม",
+      "votes": 459
+    },
+    {
+      "number": 4,
+      "name": "นายพลวรรธน์ คำพันธ์",
+      "party": "ปวงชนไทย",
+      "votes": 295
+    },
+    {
+      "number": 5,
+      "name": "นายวีระยุทธ พะโรงรัมย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 295
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/28. บุรีรัมย์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 72175,
+    "good_votes": 72175,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "31",
+  "province_name_normalized": "บุรีรัมย์",
+  "summary": {
+    "eligible_voters": 125637,
+    "voters_came": 77430,
+    "ballots_received": 122920,
+    "ballots_used": 77430,
+    "good_votes": 72175,
+    "invalid_votes": 3521,
+    "no_votes": 1734
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอดิพงษ์ ฐิติพิทยา",
+      "party": "ภูมิใจไทย",
+      "votes": 56210,
+      "candidate_uuid": "6179e6b2-b610-40a8-a520-55747815e5ef",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพงค์ เรื่องชาย",
+      "party": "ประชาชน",
+      "votes": 10630,
+      "candidate_uuid": "9365d5d5-6f9b-4177-bb5c-6ab0b6873094",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทรงพล ทะรารัมย์",
+      "party": "เพื่อไทย",
+      "votes": 3054,
+      "candidate_uuid": "d2d90863-b22c-47ed-bb49-20ab5699f916",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุประดิษฐ์ แสนทวีสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 725,
+      "candidate_uuid": "aac7be21-0064-491a-811a-de65fd522657",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชุติมา นับถือสุข",
+      "party": "ประชากรไทย",
+      "votes": 507,
+      "candidate_uuid": "f6303ffe-f038-44dc-b374-4f8224769327",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพิสุทธิ์ ยายิรัมย์",
+      "party": "กล้าธรรม",
+      "votes": 459,
+      "candidate_uuid": "2613142b-cc01-4621-b8e0-ff5ef8e4c1f9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพลวรรธน์ คำพันธ์",
+      "party": "ปวงชนไทย",
+      "votes": 295,
+      "candidate_uuid": "ed118355-4707-4f01-bc35-db1972be36ae",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวีระยุทธ พะโรงรัมย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 295,
+      "candidate_uuid": "1e616cae-4f20-4a1b-94e6-205433f6a79b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

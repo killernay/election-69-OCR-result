@@ -4,7 +4,7 @@
   "type": "party_list",
   "summary_by_section": {
     "1.1": 118176,
-    "1.2": 87586,
+    "1.2": 87587,
     "2.1": 119652,
     "2.2": 87586,
     "2.3": 32066,
@@ -109,7 +109,7 @@
     },
     {
       "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
+      "party": "สังคมประชาธิปไตยฯ",
       "votes": 106
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "number": 52,
-      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "party": "เครือข่ายชาวนาฯ",
       "votes": 8
     },
     {
@@ -313,7 +313,7 @@
   "province_name_normalized": "อุตรดิตถ์",
   "summary": {
     "eligible_voters": 118176,
-    "voters_came": 87586,
+    "voters_came": 87587,
     "ballots_received": 119652,
     "ballots_used": 87586,
     "good_votes": 80582,
@@ -449,7 +449,7 @@
     },
     {
       "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
+      "party": "สังคมประชาธิปไตยฯ",
       "votes": 106,
       "party_uuid": "b376f463-00b4-4a94-886c-fdbc533100e9",
       "party_code": "19"

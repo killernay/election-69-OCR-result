@@ -42,31 +42,31 @@
       "votes": 1091
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายประไพย์ ศรีลาชัย",
       "party": "ประชากรไทย",
       "votes": 887
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายสวัสดิ์ โพธิสาร",
       "party": "ประชาธิปัตย์",
       "votes": 652
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายบุญเลี้ยง สว่างภพ",
       "party": "กล้าธรรม",
       "votes": 619
     },
     {
-      "number": 7,
+      "number": 17,
       "name": "นายธรรศ คำพันธุ์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 395
     },
     {
-      "number": 8,
+      "number": 18,
       "name": "นางสาวนภาพร บุตรสอน",
       "party": "ปวงชนไทย",
       "votes": 87
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 7,
       "name": "นายประไพย์ ศรีลาชัย",
       "party": "ประชากรไทย",
       "votes": 887,
@@ -131,7 +131,7 @@
       "is_active": true
     },
     {
-      "number": 3,
+      "number": 8,
       "name": "นายสวัสดิ์ โพธิสาร",
       "party": "ประชาธิปัตย์",
       "votes": 652,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายบุญเลี้ยง สว่างภพ",
       "party": "กล้าธรรม",
       "votes": 619,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 17,
       "name": "นายธรรศ คำพันธุ์",
       "party": "รวมไทยสร้างชาติ",
       "votes": 395,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 18,
       "name": "นางสาวนภาพร บุตรสอน",
       "party": "ปวงชนไทย",
       "votes": 87,

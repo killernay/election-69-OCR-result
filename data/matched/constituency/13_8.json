@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวพรพิมล ธรรมสาร",
       "party": "ภูมิใจไทย",
       "votes": 42730
@@ -30,7 +30,7 @@
       "votes": 1276
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายพนพ เกษามา",
       "party": "ประชาธิปัตย์",
       "votes": 1978
@@ -60,7 +60,7 @@
       "votes": 628
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายปรีชา ชื่นชนกพิบูล",
       "party": "พลังประชารัฐ",
       "votes": 663
@@ -85,7 +85,7 @@
   },
   "matched_candidates": [
     {
-      "number": 3,
+      "number": 1,
       "name": "นางสาวพรพิมล ธรรมสาร",
       "party": "ภูมิใจไทย",
       "votes": 42730,
@@ -101,7 +101,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 3,
       "name": "นายพนพ เกษามา",
       "party": "ประชาธิปัตย์",
       "votes": 1978,
@@ -141,7 +141,7 @@
       "is_active": true
     },
     {
-      "number": 1,
+      "number": 9,
       "name": "นายปรีชา ชื่นชนกพิบูล",
       "party": "พลังประชารัฐ",
       "votes": 663,

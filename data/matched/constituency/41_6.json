@@ -12,7 +12,7 @@
     "3.2": 0,
     "3.3": 4252,
     "3.4": 80892,
-    "4.1": 77405,
+    "4.1": 77505,
     "4.2": 2375,
     "4.3": 1112
   },
@@ -42,7 +42,7 @@
       "votes": 10595
     },
     {
-      "number": 9,
+      "number": 4,
       "name": "นายประกาศิต ปัญญาใส",
       "party": "เศรษฐกิจ",
       "votes": 1487
@@ -54,19 +54,19 @@
       "votes": 487
     },
     {
-      "number": 4,
+      "number": 7,
       "name": "นางสาวมลิวรรณ แก้วสุข",
       "party": "ประชาธิปัตย์",
       "votes": 341
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายสุริวรรณ คล้ายเพชร",
       "party": "เพื่อบ้านเมือง",
       "votes": 147
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายธนพล คำศรี",
       "party": "ประชากรไทย",
       "votes": 64
@@ -75,8 +75,8 @@
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 6.json",
   "_validation": {
     "vote_sum": 77405,
-    "good_votes": 77405,
-    "sum_diff_pct": 0.0
+    "good_votes": 77505,
+    "sum_diff_pct": 0.13
   },
   "province_code": "41",
   "province_name_normalized": "อุดรธานี",
@@ -85,7 +85,7 @@
     "voters_came": 80892,
     "ballots_received": 127612,
     "ballots_used": 80892,
-    "good_votes": 77405,
+    "good_votes": 77505,
     "invalid_votes": 2375,
     "no_votes": 1112
   },
@@ -123,7 +123,7 @@
       "is_active": true
     },
     {
-      "number": 9,
+      "number": 4,
       "name": "นายประกาศิต ปัญญาใส",
       "party": "เศรษฐกิจ",
       "votes": 1487,
@@ -139,7 +139,7 @@
       "is_active": true
     },
     {
-      "number": 4,
+      "number": 7,
       "name": "นางสาวมลิวรรณ แก้วสุข",
       "party": "ประชาธิปัตย์",
       "votes": 341,
@@ -147,7 +147,7 @@
       "is_active": true
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "นายสุริวรรณ คล้ายเพชร",
       "party": "เพื่อบ้านเมือง",
       "votes": 147,
@@ -155,7 +155,7 @@
       "is_active": true
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "นายธนพล คำศรี",
       "party": "ประชากรไทย",
       "votes": 64,
